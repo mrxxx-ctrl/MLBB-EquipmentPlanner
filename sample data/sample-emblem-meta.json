@@ -1,0 +1,153 @@
+{
+   "title":"emblem-schema",
+   "revdate":"02-21-2020",
+   "data":[
+      {
+         "emblem_name":"physical_emblem_set",
+         "emblem_role":"physical",
+         "id":"001",
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"vitality",
+                     "modifiers":[
+						"hp":"65"
+                     ]
+                  },
+                  {
+                     "name":"firmness",
+                     "modifiers":[
+						"physical_defense":"4"
+                     ]
+                  },
+                  {
+                     "name":"shield",
+                     "modifiers":[
+						"magic_defense":"4"
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      }
+   ,
+      {
+         "emblem_name":"null",
+         "emblem_role":"null",
+         "id":"null",
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      }
+   
+   
+   ]
+}
