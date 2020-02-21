@@ -5,12 +5,14 @@
       {
          "hero_name":"null",
 		 "id":"null",
+		 "hero_icon":"URL",
          "data":[
 			 {
-             "skills":[
+			 "skills":[
 				
 					{
 					 "skill_name":"null",
+					 "skill_icon":"URL",
 					 "type":"passive|active",
 					 "name":"null",
 					 "manacost":"null",
@@ -24,6 +26,7 @@
 					},
 					{
 					 "skill_name":"null",
+					 "skill_icon":"URL",
 					 "type":"passive|active",
 					 "name":"null",
 					 "manacost":"null",
