@@ -4,58 +4,75 @@
    "data":[
       {
          "emblem_name":"null",
-		 "emblem_role":"null",
-		 "id":"null",
-		 "data":[
-			 {
-             "tier1":[
-					{
-					"name":"null",
-					"modifiers":[]
-					},
-					{
-					"name":"null",
-					"modifiers":[]
-					},
-					{
-					"name":"null",
-					"modifiers":[]
-					}
-				],
-			 "tier2":[
-					{
-					"name":"null",
-					"modifiers":[]
-					},
-					{
-					"name":"null",
-					"modifiers":[]
-					},
-					{
-					"name":"null",
-					"modifiers":[]
-					}
-				],
-			"tier3":[
-					{
-					"name":"null",
-					"modifiers":[],
-					"passive_ability":"null"
-					},
-					{
-					"name":"null",
-					"modifiers":[],
-					"passive_ability":"null"
-					},
-					{
-					"name":"null",
-					"modifiers":[],
-					"passive_ability":"null"
-					}
-				]
-			}
-			]
-			
-		}	
+         "emblem_role":"null",
+         "id":"null",
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      }
    ]
 }
