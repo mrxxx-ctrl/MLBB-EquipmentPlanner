@@ -80,10 +80,26 @@
 				
 					]
 				}
-			 ]
-			 
+			 ],
+			 "build_path":[
+					{
+					 "item_name":"null",
+					 "cost":"null"
+					 },
+					 {
+					 "item_name":"null",
+					 "cost":"null"
+					 },
+					 {
+					 "item_name":"null",
+					 "cost":"null"
+					 }	
+					
+				]
+				
 			}
 			]
+			
 		}	
    ]
 }
