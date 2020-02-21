@@ -11,7 +11,7 @@
 				
 					{
 					 "skill_name":"null",
-                     "type":"passive|active",
+					 "type":"passive|active",
 					 "name":"null",
 					 "manacost":"null",
 					 "description":"null",
@@ -24,7 +24,7 @@
 					},
 					{
 					 "skill_name":"null",
-                     "type":"passive|active",
+					 "type":"passive|active",
 					 "name":"null",
 					 "manacost":"null",
 					 "description":"null",
@@ -37,7 +37,7 @@
 					}
 				
 				],
-             "movement_speed":"null",
+			 "movement_speed":"null",
 			 "physical_attack":"null",
 			 "physical_defense":"null",
 			 "magic_power":"null",
