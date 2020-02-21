@@ -7,8 +7,8 @@
 		 "id":"null",
          "data":[
 			 {
-             "skills":{
-               "skill":[
+             "skills":[
+				
 					{
 					 "skill_name":"null",
                      "type":"passive|active",
@@ -17,13 +17,26 @@
 					 "description":"null",
 					 "modifiers":[
 						{
-						"movement_speed":"null"
-						"physical_defense":"null",
+						"movement_speed":"null",
+						"physical_defense":"null"
+						}
+						]
+					},
+					{
+					 "skill_name":"null",
+                     "type":"passive|active",
+					 "name":"null",
+					 "manacost":"null",
+					 "description":"null",
+					 "modifiers":[
+						{
+						"physical_attack":"null",
+						"physical_defense":"null"
 						}
 						]
 					}
-					]
-                  },
+				
+				],
              "movement_speed":"null",
 			 "physical_attack":"null",
 			 "physical_defense":"null",
