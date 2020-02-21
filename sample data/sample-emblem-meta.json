@@ -3,72 +3,102 @@
    "revdate":"02-21-2020",
    "data":[
       {
-         "emblem_name":"physical_emblem_set",
+         "emblem_name":"physical emblem set",
+		 "icon":"URL",
          "emblem_role":"physical",
          "id":"001",
+		 "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"14",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"267",
+               "mana":"null",
+               "attack_speed":"3%",
+               "hp_regen_rate":"18",
+               "mana_regen_rate":"null",
+			   "critical_strike_chance":"2%"
+            }
+         ],
          "data":[
             {
                "tier1":[
                   {
                      "name":"vitality",
+					 "icon":"URL",
                      "modifiers":[
+						{
 						"hp":"65"
+						}
                      ]
                   },
                   {
                      "name":"firmness",
+					 "icon":"URL",
                      "modifiers":[
+						{
 						"physical_defense":"4"
+						}
                      ]
                   },
                   {
                      "name":"shield",
+					 "icon":"URL",
                      "modifiers":[
+						{
 						"magic_defense":"4"
+						}
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
+                     "name":"bravery",
+					 "icon":"URL",
                      "modifiers":[
-
+						{
+						"physical_attack":"4"
+						}
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"swift",
+					 "icon":"URL",
                      "modifiers":[
-
+						{
+						"attack_speed":"2%"
+						}
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"fatal",
+					 "icon":"URL",
                      "modifiers":[
-
+						{
+						"critical_strike_chance":"1.2%"
+						}
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
+                     "name":"life drain",
+					 "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Killing an enemy minion restores 3% of max HP."
                   },
                   {
-                     "name":"null",
+                     "name":"open fire",
+					 "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
-                  },
-                  {
-                     "name":"null",
-                     "modifiers":[
-
-                     ],
-                     "passive_ability":"null"
+                     "passive_ability":"Dealing damage with skills increases physical attack by 5% for 3 seconds. This skill has a 6 second cooldown."
                   }
                ]
             }
@@ -77,25 +107,44 @@
    ,
       {
          "emblem_name":"null",
+		 "icon":"URL",
          "emblem_role":"null",
          "id":"null",
+		 "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"null",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null"
+            }
+         ],
          "data":[
             {
                "tier1":[
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ]
@@ -104,18 +153,21 @@
                "tier2":[
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ]
@@ -124,6 +176,7 @@
                "tier3":[
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -131,6 +184,7 @@
                   },
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -138,6 +192,7 @@
                   },
                   {
                      "name":"null",
+					 "icon":"URL",
                      "modifiers":[
 
                      ],

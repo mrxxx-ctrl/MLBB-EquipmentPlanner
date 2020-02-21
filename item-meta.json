@@ -5,6 +5,7 @@
       {
          "item_name":"null",
          "id":"null",
+		 "icon":"URL",
          "item_tier":"null",
          "data":[
             {
@@ -21,7 +22,8 @@
                      "mana":"null",
                      "attack_speed":"null",
                      "hp_regen_rate":"null",
-                     "mana_regen_rate":"null"
+                     "mana_regen_rate":"null",
+					 "critical_strike_chance":"null"
                   }
                ],
                "passive":[
@@ -57,6 +59,7 @@
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
                            "mana_regen_rate":"null"
+						   "critical_strike_chance":"null"
                         }
                      ]
                   },
@@ -76,6 +79,7 @@
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
                            "mana_regen_rate":"null"
+						   "critical_strike_chance":"null"
                         }
                      ]
                   }

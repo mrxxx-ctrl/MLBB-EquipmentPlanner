@@ -4,69 +4,112 @@
    "data":[
       {
          "emblem_name":"null",
+         "icon":"URL",
          "emblem_role":"null",
          "id":"null",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"null",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null"
+            }
+         ],
          "data":[
             {
                "tier1":[
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ]
                   },
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ]
                   },
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ]
                   },
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ]
                   },
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ],
                      "passive_ability":"null"
                   },
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ],
                      "passive_ability":"null"
                   },
                   {
                      "name":"null",
+                     "icon":"URL",
                      "modifiers":[
+                        {
 
+                        }
                      ],
                      "passive_ability":"null"
                   }
