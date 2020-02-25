@@ -1,100 +1,100 @@
 {
    "title":"emblem-schema",
-   "revdate":"02-21-2020",
+   "revdate":"02-25-2020",
    "data":[
       {
-         "emblem_name":"physical emblem set",
-		 "icon":"URL",
+         "emblem_name":"Physical",
+         "icon":"http://mlbb.realityblender.com/emblems/physical.png",
          "emblem_role":"physical",
          "id":"001",
-		 "modifiers":[
+         "modifiers":[
             {
                "movement_speed":"null",
-               "physical_attack":"14",
+               "physical_attack":"14.00",
                "physical_defense":"null",
                "magic_power":"null",
                "armor":"null",
                "magic_resistance":"null",
                "hp":"267",
                "mana":"null",
-               "attack_speed":"3%",
-               "hp_regen_rate":"18",
+               "attack_speed":"3.00%",
+               "hp_regen_rate":"18.00",
                "mana_regen_rate":"null",
-			   "critical_strike_chance":"2%"
+               "critical_strike_chance":"2.00%"
             }
          ],
          "data":[
             {
                "tier1":[
                   {
-                     "name":"vitality",
-					 "icon":"URL",
+                     "name":"Vitality",
+                     "icon":"URL",
                      "modifiers":[
-						{
-						"hp":"65"
-						}
+                        {
+                           "hp":"65"
+                        }
                      ]
                   },
                   {
-                     "name":"firmness",
-					 "icon":"URL",
+                     "name":"Firmness",
+                     "icon":"URL",
                      "modifiers":[
-						{
-						"physical_defense":"4"
-						}
+                        {
+                           "physical_defense":"4"
+                        }
                      ]
                   },
                   {
-                     "name":"shield",
-					 "icon":"URL",
+                     "name":"Shield",
+                     "icon":"URL",
                      "modifiers":[
-						{
-						"magic_defense":"4"
-						}
+                        {
+                           "magic_defense":"4"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"bravery",
-					 "icon":"URL",
+                     "name":"Bravery",
+                     "icon":"URL",
                      "modifiers":[
-						{
-						"physical_attack":"4"
-						}
+                        {
+                           "physical_attack":"4"
+                        }
                      ]
                   },
                   {
-                     "name":"swift",
-					 "icon":"URL",
+                     "name":"Swift",
+                     "icon":"URL",
                      "modifiers":[
-						{
-						"attack_speed":"2%"
-						}
+                        {
+                           "attack_speed":"2%"
+                        }
                      ]
                   },
                   {
-                     "name":"fatal",
-					 "icon":"URL",
+                     "name":"Fatal",
+                     "icon":"URL",
                      "modifiers":[
-						{
-						"critical_strike_chance":"1.2%"
-						}
+                        {
+                           "critical_strike_chance":"1.2%"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"life drain",
-					 "icon":"URL",
+                     "name":"Life Drain",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
                      "passive_ability":"Killing an enemy minion restores 3% of max HP."
                   },
                   {
-                     "name":"open fire",
-					 "icon":"URL",
+                     "name":"Open Fire",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -103,14 +103,217 @@
                ]
             }
          ]
-      }
-   ,
+      },
       {
-         "emblem_name":"null",
-		 "icon":"URL",
-         "emblem_role":"null",
-         "id":"null",
-		 "modifiers":[
+         "emblem_name":"Magic",
+         "icon":"http://mlbb.realityblender.com/emblems/magic.png",
+         "emblem_role":"magic",
+         "id":"002",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"14.00",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"267",
+               "mana":"180",
+               "attack_speed":"null",
+               "hp_regen_rate":"18.00",
+               "mana_regen_rate":"null",
+               "cd_reduction":"2.00%"
+            }
+         ],
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"Energy",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"70.00",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Vitality",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"65.00",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Awaken",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"7.00",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"Flow",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"4.00",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Desire",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"1.50%",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"1.00%"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Observation",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"2.00",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"Energy Absorption",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"Killing an enemy minion restores 2% of max HP and 3% of max MP"
+                  },
+                  {
+                     "name":"Magic Power Surge",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"Dealing damage with skills increases magic attack by 11~25 (increases with hero level) for 3 seconds. This effect has a 6 second cooldown."
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "emblem_name":"Tank",
+         "icon":"http://mlbb.realityblender.com/emblems/tank.png",
+         "emblem_role":"tank",
+         "id":"003",
+         "modifiers":[
             {
                "movement_speed":"null",
                "physical_attack":"null",
@@ -130,21 +333,21 @@
                "tier1":[
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
@@ -153,21 +356,21 @@
                "tier2":[
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
@@ -176,7 +379,7 @@
                "tier3":[
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -184,7 +387,7 @@
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -192,7 +395,7 @@
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -201,14 +404,13 @@
                ]
             }
          ]
-      }
-   ,
-	  {
-         "emblem_name":"null",
-		 "icon":"URL",
-         "emblem_role":"null",
-         "id":"null",
-		 "modifiers":[
+      },
+      {
+         "emblem_name":"Jungle",
+         "icon":"http://mlbb.realityblender.com/emblems/jungle.png",
+         "emblem_role":"jungle",
+         "id":"004",
+         "modifiers":[
             {
                "movement_speed":"null",
                "physical_attack":"null",
@@ -228,21 +430,21 @@
                "tier1":[
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
@@ -251,21 +453,21 @@
                "tier2":[
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ]
@@ -274,7 +476,7 @@
                "tier3":[
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -282,7 +484,7 @@
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -290,7 +492,7 @@
                   },
                   {
                      "name":"null",
-					 "icon":"URL",
+                     "icon":"URL",
                      "modifiers":[
 
                      ],
@@ -299,7 +501,615 @@
                ]
             }
          ]
+      },
+      {
+         "emblem_name":"Assassin",
+         "icon":"http://mlbb.realityblender.com/emblems/assassin.png",
+         "emblem_role":"assassin",
+         "id":"005",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"null",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null"
+            }
+         ],
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "emblem_name":"Mage",
+         "icon":"http://mlbb.realityblender.com/emblems/mage.png",
+         "emblem_role":"mage",
+         "id":"006",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"null",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null"
+            }
+         ],
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "emblem_name":"Fighter",
+         "icon":"http://mlbb.realityblender.com/emblems/fighter.png",
+         "emblem_role":"fighter",
+         "id":"007",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"null",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null"
+            }
+         ],
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "emblem_name":"Support",
+         "icon":"http://mlbb.realityblender.com/emblems/support.png",
+         "emblem_role":"support",
+         "id":"008",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"null",
+               "physical_defense":"null",
+               "magic_power":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"null",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null"
+            }
+         ],
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  },
+                  {
+                     "name":"null",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"null"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "emblem_name":"Marksman",
+         "icon":"http://mlbb.realityblender.com/emblems/marksman.png",
+         "emblem_role":"marksman",
+         "id":"009",
+         "modifiers":[
+            {
+               "movement_speed":"null",
+               "physical_attack":"17.00",
+               "physical_defense":"null",
+               "physical_lifesteal":"5.00%",
+               "physical_penetration":"6",
+               "magic_power":"null",
+               "magic_penetration":"null",
+               "magic_lifesteal":"null",
+               "spell_vamp":"null",
+               "armor":"null",
+               "magic_resistance":"null",
+               "hp":"null",
+               "mana":"null",
+               "attack_speed":"7.50%",
+               "hp_regen_rate":"null",
+               "mana_regen_rate":"null",
+               "critical_strike_chance":"5.00%",
+               "cd_reduction":"null"
+            }
+         ],
+         "data":[
+            {
+               "tier1":[
+                  {
+                     "name":"Bravery",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"4.00",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Greed",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"5.00%",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Fatal",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"1.20%",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  }
+               ],
+               "tier2":[
+                  {
+                     "name":"Doom",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"4.50%",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Mastery",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"5.00%"
+                        }
+                     ]
+                  },
+                  {
+                     "name":"Swift",
+                     "icon":"URL",
+                     "modifiers":[
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"5.00%",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
+                        }
+                     ]
+                  }
+               ],
+               "tier3":[
+                  {
+                     "name":"Weapon Master",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"Physical damage gained from equipment is increased by 10%"
+                  },
+                  {
+                     "name":"Electro Flash",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"Within 1.5s of dealing damage with Basic Attacks, increases movement speed by 40% and regenerates HP equal to 30% of hero's Physical Attack. This effect has 10s cooldown."
+                  },
+                  {
+                     "name":"Weakness Finder",
+                     "icon":"URL",
+                     "modifiers":[
+
+                     ],
+                     "passive_ability":"Basic Attack has a 20% chance of reducing target's movement speed by 90% and attack speed by 50%. This effect has a 2 second cooldown. (Not effective for melee heroes)"
+                  }
+               ]
+            }
+         ]
       }
-   
    ]
 }

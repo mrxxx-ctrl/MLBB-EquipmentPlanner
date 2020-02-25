@@ -1,117 +1,122 @@
 {
-   "title":"emblem-schema",
-   "revdate":"02-21-2020",
+   "title":"item-schema",
+   "revdate":"02-25-2020",
    "data":[
       {
-         "emblem_name":"null",
-         "icon":"URL",
-         "emblem_role":"null",
+         "item_name":"null",
          "id":"null",
-         "modifiers":[
-            {
-               "movement_speed":"null",
-               "physical_attack":"null",
-               "physical_defense":"null",
-               "magic_power":"null",
-               "armor":"null",
-               "magic_resistance":"null",
-               "hp":"null",
-               "mana":"null",
-               "attack_speed":"null",
-               "hp_regen_rate":"null",
-               "mana_regen_rate":"null"
-            }
-         ],
+         "icon":"URL",
+         "item_tier":"null",
          "data":[
             {
-               "tier1":[
+               "cost":"null",
+               "modifiers":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "movement_speed":"null",
+                     "physical_attack":"null",
+                     "physical_defense":"null",
+                     "physical_lifesteal":"null",
+                     "physical_penetration":"null",
+                     "magic_power":"null",
+                     "magic_penetration":"null",
+                     "magic_lifesteal":"null",
+                     "spell_vamp":"null",
+                     "armor":"null",
+                     "magic_resistance":"null",
+                     "hp":"null",
+                     "mana":"null",
+                     "attack_speed":"null",
+                     "hp_regen_rate":"null",
+                     "mana_regen_rate":"null",
+                     "critical_strike_chance":"null",
+                     "critical_damage":"null",
+                     "cd_reduction":"null"
+                  }
+               ],
+               "passive":[
+                  {
+                     "passive_name":"null",
+                     "description":"null",
+                     "modifiers":[
+
+                     ]
+                  },
+                  {
+                     "passive_name":"null",
+                     "description":"null",
+                     "modifiers":[
+
+                     ]
+                  }
+               ],
+               "unique_passive":[
+                  {
+                     "unique_passive_name":"null",
+                     "description":"null",
                      "modifiers":[
                         {
-
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
                         }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "unique_passive_name":"null",
+                     "description":"null",
                      "modifiers":[
                         {
-
-                        }
-                     ]
-                  },
-                  {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
                         }
                      ]
                   }
                ],
-               "tier2":[
+               "build_path":[
                   {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
-                        }
-                     ]
+                     "item_name":"null",
+                     "cost":"null"
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
-                        }
-                     ]
+                     "item_name":"null",
+                     "cost":"null"
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
-                        }
-                     ]
-                  }
-               ],
-               "tier3":[
-                  {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
-                        }
-                     ],
-                     "passive_ability":"null"
-                  },
-                  {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
-                        }
-                     ],
-                     "passive_ability":"null"
-                  },
-                  {
-                     "name":"null",
-                     "icon":"URL",
-                     "modifiers":[
-                        {
-
-                        }
-                     ],
-                     "passive_ability":"null"
+                     "item_name":"null",
+                     "cost":"null"
                   }
                ]
             }

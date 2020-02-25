@@ -1,11 +1,11 @@
 {
    "title":"item-schema",
-   "revdate":"02-21-2020",
+   "revdate":"02-25-2020",
    "data":[
       {
          "item_name":"null",
          "id":"null",
-		 "icon":"URL",
+         "icon":"URL",
          "item_tier":"null",
          "data":[
             {
@@ -23,7 +23,8 @@
                      "attack_speed":"null",
                      "hp_regen_rate":"null",
                      "mana_regen_rate":"null",
-					 "critical_strike_chance":"null"
+                     "critical_strike_chance":"null",
+                     "cd_reduction":"null"
                   }
                ],
                "passive":[
@@ -58,8 +59,9 @@
                            "mana":"null",
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
-                           "mana_regen_rate":"null"
-						   "critical_strike_chance":"null"
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
                         }
                      ]
                   },
@@ -78,8 +80,9 @@
                            "mana":"null",
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
-                           "mana_regen_rate":"null"
-						   "critical_strike_chance":"null"
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "cd_reduction":"null"
                         }
                      ]
                   }
