@@ -12,25 +12,7 @@
                "cost":"null",
                "modifiers":[
                   {
-                     "movement_speed":"null",
-                     "physical_attack":"null",
-                     "physical_defense":"null",
-                     "physical_lifesteal":"null",
-                     "physical_penetration":"null",
-                     "magic_power":"null",
-                     "magic_penetration":"null",
-                     "magic_lifesteal":"null",
-                     "spell_vamp":"null",
-                     "armor":"null",
-                     "magic_resistance":"null",
-                     "hp":"null",
-                     "mana":"null",
-                     "attack_speed":"null",
-                     "hp_regen_rate":"null",
-                     "mana_regen_rate":"null",
-                     "critical_strike_chance":"null",
-                     "critical_damage":"null",
-                     "cd_reduction":"null"
+                    
                   }
                ],
                "passive":[
@@ -55,25 +37,7 @@
                      "description":"null",
                      "modifiers":[
                         {
-                           "movement_speed":"null",
-                           "physical_attack":"null",
-                           "physical_defense":"null",
-                           "physical_lifesteal":"null",
-                           "physical_penetration":"null",
-                           "magic_power":"null",
-                           "magic_penetration":"null",
-                           "magic_lifesteal":"null",
-                           "spell_vamp":"null",
-                           "armor":"null",
-                           "magic_resistance":"null",
-                           "hp":"null",
-                           "mana":"null",
-                           "attack_speed":"null",
-                           "hp_regen_rate":"null",
-                           "mana_regen_rate":"null",
-                           "critical_strike_chance":"null",
-                           "critical_damage":"null",
-                           "cd_reduction":"null"
+                          
                         }
                      ]
                   },
@@ -82,25 +46,7 @@
                      "description":"null",
                      "modifiers":[
                         {
-                           "movement_speed":"null",
-                           "physical_attack":"null",
-                           "physical_defense":"null",
-                           "physical_lifesteal":"null",
-                           "physical_penetration":"null",
-                           "magic_power":"null",
-                           "magic_penetration":"null",
-                           "magic_lifesteal":"null",
-                           "spell_vamp":"null",
-                           "armor":"null",
-                           "magic_resistance":"null",
-                           "hp":"null",
-                           "mana":"null",
-                           "attack_speed":"null",
-                           "hp_regen_rate":"null",
-                           "mana_regen_rate":"null",
-                           "critical_strike_chance":"null",
-                           "critical_damage":"null",
-                           "cd_reduction":"null"
+                          
                         }
                      ]
                   }
