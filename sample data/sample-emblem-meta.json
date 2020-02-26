@@ -28,28 +28,28 @@
                "tier1":[
                   {
                      "name":"Vitality",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/vitality.png",
                      "modifiers":[
                         {
-                           "hp":"65"
+                           "hp":"200"
                         }
                      ]
                   },
                   {
                      "name":"Firmness",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/firmness.png",
                      "modifiers":[
                         {
-                           "physical_defense":"4"
+                           "physical_defense":"12.00"
                         }
                      ]
                   },
                   {
                      "name":"Shield",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/shield.png",
                      "modifiers":[
                         {
-                           "magic_defense":"4"
+                           "magic_defense":"12.00"
                         }
                      ]
                   }
@@ -57,28 +57,28 @@
                "tier2":[
                   {
                      "name":"Bravery",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/bravery.png",
                      "modifiers":[
                         {
-                           "physical_attack":"4"
+                           "physical_attack":"12.00"
                         }
                      ]
                   },
                   {
                      "name":"Swift",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/swift.png",
                      "modifiers":[
                         {
-                           "attack_speed":"2%"
+                           "attack_speed":"6.00%"
                         }
                      ]
                   },
                   {
                      "name":"Fatal",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/fatal.png",
                      "modifiers":[
                         {
-                           "critical_strike_chance":"1.2%"
+                           "critical_strike_chance":"3.60%"
                         }
                      ]
                   }
@@ -86,7 +86,7 @@
                "tier3":[
                   {
                      "name":"Life Drain",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/life-drain.png",
                      "modifiers":[
 
                      ],
@@ -94,7 +94,7 @@
                   },
                   {
                      "name":"Open Fire",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/open-fire.png",
                      "modifiers":[
 
                      ],
@@ -130,7 +130,7 @@
                "tier1":[
                   {
                      "name":"Energy",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/energy.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -145,7 +145,7 @@
                            "armor":"null",
                            "magic_resistance":"null",
                            "hp":"null",
-                           "mana":"70.00",
+                           "mana":"210.00",
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
                            "mana_regen_rate":"null",
@@ -156,7 +156,7 @@
                   },
                   {
                      "name":"Vitality",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/vitality.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -170,7 +170,7 @@
                            "spell_vamp":"null",
                            "armor":"null",
                            "magic_resistance":"null",
-                           "hp":"65.00",
+                           "hp":"200.00",
                            "mana":"null",
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
@@ -182,7 +182,7 @@
                   },
                   {
                      "name":"Awaken",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/awaken.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -200,7 +200,7 @@
                            "mana":"null",
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
-                           "mana_regen_rate":"7.00",
+                           "mana_regen_rate":"21.00",
                            "critical_strike_chance":"null",
                            "cd_reduction":"null"
                         }
@@ -210,11 +210,11 @@
                "tier2":[
                   {
                      "name":"Flow",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/flow.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
-                           "physical_attack":"4.00",
+                           "physical_attack":"12.00",
                            "physical_defense":"null",
                            "physical_lifesteal":"null",
                            "physical_penetration":"null",
@@ -236,7 +236,7 @@
                   },
                   {
                      "name":"Desire",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/desire.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -247,7 +247,7 @@
                            "magic_power":"null",
                            "magic_penetration":"null",
                            "magic_lifesteal":"null",
-                           "spell_vamp":"1.50%",
+                           "spell_vamp":"4.50%",
                            "armor":"null",
                            "magic_resistance":"null",
                            "hp":"null",
@@ -256,13 +256,13 @@
                            "hp_regen_rate":"null",
                            "mana_regen_rate":"null",
                            "critical_strike_chance":"null",
-                           "cd_reduction":"1.00%"
+                           "cd_reduction":"3.00%"
                         }
                      ]
                   },
                   {
                      "name":"Observation",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/observation.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -271,7 +271,7 @@
                            "physical_lifesteal":"null",
                            "physical_penetration":"null",
                            "magic_power":"null",
-                           "magic_penetration":"2.00",
+                           "magic_penetration":"6.00",
                            "magic_lifesteal":"null",
                            "spell_vamp":"null",
                            "armor":"null",
@@ -317,89 +317,252 @@
             {
                "movement_speed":"null",
                "physical_attack":"null",
-               "physical_defense":"null",
+               "physical_defense":"10",
+               "physical_lifesteal":"null",
+               "physical_penetration":"null",
+               "magic_attack":"null",
                "magic_power":"null",
+               "magic_penetration":"null",
+               "magic_lifesteal":"null",
+               "spell_vamp":"null",
                "armor":"null",
-               "magic_resistance":"null",
-               "hp":"null",
+               "magic_resistance":"10",
+               "hp":"345",
                "mana":"null",
                "attack_speed":"null",
-               "hp_regen_rate":"null",
-               "mana_regen_rate":"null"
+               "hp_regen_rate":"18",
+               "mana_regen_rate":"null",
+               "critical_strike_chance":"null",
+               "critical_damage":"null",
+               "cd_reduction":"2.00%",
+               "bs_cd_reduction":"null",
+               "healing_effect":"null",
+               "monster_damage_reduction":"null",
+               "monster_damage":"null"
             }
          ],
          "data":[
             {
                "tier1":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Vitality",
+                     "icon":"http://mlbb.realityblender.com/subtalents/vitality.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"200.00",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Firmness",
+                     "icon":"http://mlbb.realityblender.com/subtalents/firmness.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"12.00",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Shield",
+                     "icon":"http://mlbb.realityblender.com/subtalents/shield.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"12.00",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Inspire",
+                     "icon":"http://mlbb.realityblender.com/subtalents/inspire.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"8.00%",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Fortress",
+                     "icon":"http://mlbb.realityblender.com/subtalents/fortress.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"8.00%",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Purity",
+                     "icon":"http://mlbb.realityblender.com/subtalents/purity.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"8.00%",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Tenacity",
+                     "icon":"http://mlbb.realityblender.com/talents/tenacity.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Increase physical and magical defense by 35 points when health is less than 40%."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Brave Smite",
+                     "icon":"http://mlbb.realityblender.com/talents/brave-smite.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Crowd controlling an enemy restores 5% of max HP. This effect has a 10 second cooldown."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Attack and Defense",
+                     "icon":"http://mlbb.realityblender.com/talents/attack-and-defense.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Increase physical and magical attack by 0.4% of max HP."
                   }
                ]
             }
@@ -412,91 +575,244 @@
          "id":"004",
          "modifiers":[
             {
-               "movement_speed":"null",
-               "physical_attack":"null",
+               "movement_speed":"6%",
+               "physical_attack":"13",
                "physical_defense":"null",
+               "physical_lifesteal":"2.5%",
+               "physical_penetration":"null",
                "magic_power":"null",
+               "magic_penetration":"null",
+               "magic_lifesteal":"null",
+               "spell_vamp":"null",
                "armor":"null",
                "magic_resistance":"null",
-               "hp":"null",
+               "hp":"306",
                "mana":"null",
-               "attack_speed":"null",
+               "attack_speed":"4.50%",
                "hp_regen_rate":"null",
-               "mana_regen_rate":"null"
+               "mana_regen_rate":"null",
+               "critical_strike_chance":"null",
+               "critical_damage":"null",
+               "cd_reduction":"null",
+               "healing_effect":"null"
             }
          ],
          "data":[
             {
                "tier1":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Thrill",
+                     "icon":"http://mlbb.realityblender.com/subtalents/thrill.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"12.00",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_attack":"12.00",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Brutal",
+                     "icon":"http://mlbb.realityblender.com/subtalents/brutal.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"21.00%"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Balance",
+                     "icon":"http://mlbb.realityblender.com/subtalents/balance.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"5.00%",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"5.00%",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Swift",
+                     "icon":"http://mlbb.realityblender.com/subtalents/swift.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"5.00%",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Knowledge",
+                     "icon":"http://mlbb.realityblender.com/subtalents/knowledge.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "bs_cd_reduction":"6.00%",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"null",
+                           "monster_damage":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Iron",
+                     "icon":"http://mlbb.realityblender.com/subtalents/iron.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null",
+                           "monster_damage_reduction":"21.00%",
+                           "monster_damage":"null"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Veteran Hunter",
+                     "icon":"http://mlbb.realityblender.com/talents/veteran-hunter.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Killing jungle monsters hit by Retribution grants 50 extra gold."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Wild Power",
+                     "icon":"http://mlbb.realityblender.com/talents/wild-power.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Retribution’s slow effect increased by 20%. Gain 50 extra gold if an enemy dies under Retribution effect."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Mage Killer",
+                     "icon":"http://mlbb.realityblender.com/talents/mage-killer.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Increases damage dealt to the Lord, Turtle, and Turrets by 15%. Reduce damage taken from the Lord and Turtle by 20%."
                   }
                ]
             }
@@ -526,74 +842,200 @@
             {
                "tier1":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Bravery",
+                     "icon":"http://mlbb.realityblender.com/subtalents/bravery.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"12.00",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Mastery",
+                     "icon":"http://mlbb.realityblender.com/subtalents/mastery.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"5.00%",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Agility",
+                     "icon":"http://mlbb.realityblender.com/subtalents/agility.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"6.00%",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Invasion",
+                     "icon":"http://mlbb.realityblender.com/subtalents/invasion.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"6.00",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Fatal",
+                     "icon":"http://mlbb.realityblender.com/subtalents/fatal.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"3.60%",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Bloodthirst",
+                     "icon":"http://mlbb.realityblender.com/subtalents/bloodthirst.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"5.00%",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Bounty Hunter",
+                     "icon":"http://mlbb.realityblender.com/talents/bounty-hunter.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Gain an extra 100 gold from killing enemy hero (Up to 1300 gold)."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"High and Dry",
+                     "icon":"http://mlbb.realityblender.com/talents/high-and-dry.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Increases damage by 6% on the enemy hero when there is no other heroes nearby."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Killing Spree",
+                     "icon":"http://mlbb.realityblender.com/talents/killing-spree.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Killing an enemy hero restore 15% HP and increase movement speed by 20% for 5 second."
                   }
                ]
             }
@@ -606,91 +1048,226 @@
          "id":"006",
          "modifiers":[
             {
-               "movement_speed":"null",
+               "movement_speed":"2.00%",
                "physical_attack":"null",
                "physical_defense":"null",
-               "magic_power":"null",
+               "physical_lifesteal":"null",
+               "physical_penetration":"null",
+               "magic_power":"17.00",
+               "magic_penetration":"13.50",
+               "magic_lifesteal":"null",
+               "spell_vamp":"5.00%",
                "armor":"null",
                "magic_resistance":"null",
                "hp":"null",
                "mana":"null",
                "attack_speed":"null",
                "hp_regen_rate":"null",
-               "mana_regen_rate":"null"
+               "mana_regen_rate":"null",
+               "critical_strike_chance":"null",
+               "critical_damage":"null",
+               "cd_reduction":"5.00%",
+               "healing_effect":"null"
             }
          ],
          "data":[
             {
                "tier1":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Flow",
+                     "icon":"http://mlbb.realityblender.com/subtalents/flow.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"12.00",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Mastery",
+                     "icon":"http://mlbb.realityblender.com/subtalents/mastery.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"5.00%",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Agility",
+                     "icon":"http://mlbb.realityblender.com/subtalents/agility.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"6.00%",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Observation",
+                     "icon":"http://mlbb.realityblender.com/subtalents/observation.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"6.00",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Catastrophe",
+                     "icon":"http://mlbb.realityblender.com/subtalents/catastrophe.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"5.00%",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Contract",
+                     "icon":"http://mlbb.realityblender.com/subtalents/contract.png",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"5.00%",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Mystery Shop",
+                     "icon":"http://mlbb.realityblender.com/talents/mystery-shop.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Reduce the gold cost of gears to 90%."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Magic Worship",
+                     "icon":"http://mlbb.realityblender.com/talents/magic-worship.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"When dealing damage that is more than 7% of target's max HP for 3 times in 5 seconds, burns the target 3 times, each burn dealing 82-250 magic damage. This effect has 12 second cooldown."
                   },
                   {
-                     "name":"null",
-                     "icon":"URL",
+                     "name":"Impure Rage",
+                     "icon":"http://mlbb.realityblender.com/talents/impure-rage.png",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Damaging enemies with skills will deal an extra damage equal to 4% of the target's current HP as magic damage, and restore 3% of your Mana. This effect has 5 second cooldown."
                   }
                ]
             }
@@ -730,7 +1307,7 @@
                "tier1":[
                   {
                      "name":"Bravery",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/bravery.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -758,7 +1335,7 @@
                   },
                   {
                      "name":"Firmness",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/firmness.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -786,7 +1363,7 @@
                   },
                   {
                      "name":"Shield",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/shield.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -816,7 +1393,7 @@
                "tier2":[
                   {
                      "name":"Invasion",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/invasion.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -844,7 +1421,7 @@
                   },
                   {
                      "name":"Persistence",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/persistence.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -872,7 +1449,7 @@
                   },
                   {
                      "name":"Swift",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/swift.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -902,7 +1479,7 @@
                "tier3":[
                   {
                      "name":"Unbending Will",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/unbending-will.png",
                      "modifiers":[
 
                      ],
@@ -910,7 +1487,7 @@
                   },
                   {
                      "name":"Festival of Blood",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/festival-of-blood.png",
                      "modifiers":[
 
                      ],
@@ -918,7 +1495,7 @@
                   },
                   {
                      "name":"Disabling Strike",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/disabling-strike.png",
                      "modifiers":[
 
                      ],
@@ -953,7 +1530,7 @@
                "tier1":[
                   {
                      "name":"Mastery",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/mastery.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -980,7 +1557,7 @@
                   },
                   {
                      "name":"Vitality",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/vitality.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1007,7 +1584,7 @@
                   },
                   {
                      "name":"Agility",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/agility.png",
                      "modifiers":[
                         {
                            "movement_speed":"6.00%",
@@ -1036,7 +1613,7 @@
                "tier2":[
                   {
                      "name":"Gift",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/gift.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1064,7 +1641,7 @@
                   },
                   {
                      "name":"Rupture",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/rupture.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1091,7 +1668,7 @@
                   },
                   {
                      "name":"Recovery",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/recovery.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1120,7 +1697,7 @@
                "tier3":[
                   {
                      "name":"Focusing Mark",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/focusing-mark.png",
                      "modifiers":[
 
                      ],
@@ -1128,7 +1705,7 @@
                   },
                   {
                      "name":"Avarice",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/avarice.png",
                      "modifiers":[
 
                      ],
@@ -1136,7 +1713,7 @@
                   },
                   {
                      "name":"Pull Yourself Together",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/pull-yourself-together.png",
                      "modifiers":[
 
                      ],
