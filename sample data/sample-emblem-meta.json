@@ -704,90 +704,225 @@
          "modifiers":[
             {
                "movement_speed":"null",
-               "physical_attack":"null",
-               "physical_defense":"null",
+               "physical_attack":"16.00",
+               "physical_defense":"8.00",
+               "physical_lifesteal":"null",
+               "physical_penetration":"5.00",
                "magic_power":"null",
+               "magic_penetration":"null",
+               "magic_lifesteal":"null",
+               "spell_vamp":"null",
                "armor":"null",
-               "magic_resistance":"null",
-               "hp":"null",
+               "magic_resistance":"8.00",
+               "hp":"273.00",
                "mana":"null",
                "attack_speed":"null",
                "hp_regen_rate":"null",
-               "mana_regen_rate":"null"
+               "mana_regen_rate":"null",
+               "critical_strike_chance":"null",
+               "critical_damage":"null",
+               "cd_reduction":"null",
+               "healing_effect":"null"
             }
          ],
          "data":[
             {
                "tier1":[
                   {
-                     "name":"null",
+                     "name":"Bravery",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"12.00",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Firmness",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"12.00",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Shield",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"12.00",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
+                     "name":"Invasion",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"6.00",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Persistence",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"300.00",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Swift",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"5.00%",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"null"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
+                     "name":"Unbending Will",
                      "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Increases damage by 0.2% for every 1% HP lost (up to 12%)."
                   },
                   {
-                     "name":"null",
+                     "name":"Festival of Blood",
                      "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Gains 8% Spell Vamp. Killing an enemy hero grants an extra 1% Spell Vamp (up to 12%). This effect has 10 second cooldown."
                   },
                   {
-                     "name":"null",
+                     "name":"Disabling Strike",
                      "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Slowing enemy by 20% or more in single instance will increase physical attact by 30%. The effect will end after dealing damage or after 3 second."
                   }
                ]
             }
@@ -817,74 +952,195 @@
             {
                "tier1":[
                   {
-                     "name":"null",
+                     "name":"Mastery",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"5.00%"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Vitality",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"200.00",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Agility",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"6.00%",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
+                        }
                      ]
                   }
                ],
                "tier2":[
                   {
-                     "name":"null",
+                     "name":"Gift",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null",
+                           "healing_effect":"9.00%"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Rupture",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"6.00",
+                           "magic_power":"null",
+                           "magic_penetration":"6.00",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"null",
+                           "mana_regen_rate":"null",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
+                        }
                      ]
                   },
                   {
-                     "name":"null",
+                     "name":"Recovery",
                      "icon":"URL",
                      "modifiers":[
-
+                        {
+                           "movement_speed":"null",
+                           "physical_attack":"null",
+                           "physical_defense":"null",
+                           "physical_lifesteal":"null",
+                           "physical_penetration":"null",
+                           "magic_power":"null",
+                           "magic_penetration":"null",
+                           "magic_lifesteal":"null",
+                           "spell_vamp":"null",
+                           "armor":"null",
+                           "magic_resistance":"null",
+                           "hp":"null",
+                           "mana":"null",
+                           "attack_speed":"null",
+                           "hp_regen_rate":"15.00",
+                           "mana_regen_rate":"15.00",
+                           "critical_strike_chance":"null",
+                           "critical_damage":"null",
+                           "cd_reduction":"null"
+                        }
                      ]
                   }
                ],
                "tier3":[
                   {
-                     "name":"null",
+                     "name":"Focusing Mark",
                      "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"After dealing damage to an enemy hero, damage dealt by allies on the same enemy hero will be increased by 6% for 3 second. This effect has 6 second cooldown."
                   },
                   {
-                     "name":"null",
+                     "name":"Avarice",
                      "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Gains an extra 10 gold after dealing damage to enemy heroes (up to 1200 gold). This effect has 4 second cooldown."
                   },
                   {
-                     "name":"null",
+                     "name":"Pull Yourself Together",
                      "icon":"URL",
                      "modifiers":[
 
                      ],
-                     "passive_ability":"null"
+                     "passive_ability":"Resurrecting time and battle spell cooldown is reduced by 15%."
                   }
                ]
             }
@@ -922,11 +1178,11 @@
                "tier1":[
                   {
                      "name":"Bravery",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/bravery.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
-                           "physical_attack":"4.00",
+                           "physical_attack":"12.00",
                            "physical_defense":"null",
                            "physical_lifesteal":"null",
                            "physical_penetration":"null",
@@ -948,7 +1204,7 @@
                   },
                   {
                      "name":"Greed",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/greed.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -974,7 +1230,7 @@
                   },
                   {
                      "name":"Fatal",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/fatal.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -993,7 +1249,7 @@
                            "attack_speed":"null",
                            "hp_regen_rate":"null",
                            "mana_regen_rate":"null",
-                           "critical_strike_chance":"1.20%",
+                           "critical_strike_chance":"3.60%",
                            "cd_reduction":"null"
                         }
                      ]
@@ -1002,7 +1258,7 @@
                "tier2":[
                   {
                      "name":"Doom",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/doom.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1022,14 +1278,14 @@
                            "hp_regen_rate":"null",
                            "mana_regen_rate":"null",
                            "critical_strike_chance":"null",
-                           "critical_damage":"4.50%",
+                           "critical_damage":"13.50%",
                            "cd_reduction":"null"
                         }
                      ]
                   },
                   {
                      "name":"Mastery",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/mastery.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1056,7 +1312,7 @@
                   },
                   {
                      "name":"Swift",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/subtalents/swift.png",
                      "modifiers":[
                         {
                            "movement_speed":"null",
@@ -1085,7 +1341,7 @@
                "tier3":[
                   {
                      "name":"Weapon Master",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/weapon-master.png",
                      "modifiers":[
 
                      ],
@@ -1093,7 +1349,7 @@
                   },
                   {
                      "name":"Electro Flash",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/electro-flash.png",
                      "modifiers":[
 
                      ],
@@ -1101,7 +1357,7 @@
                   },
                   {
                      "name":"Weakness Finder",
-                     "icon":"URL",
+                     "icon":"http://mlbb.realityblender.com/talents/weakness-finder.png",
                      "modifiers":[
 
                      ],
