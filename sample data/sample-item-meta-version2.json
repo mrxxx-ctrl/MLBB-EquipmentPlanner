@@ -3514,17 +3514,27 @@
       },
       {
          "item_name":"Shadow Mask",
-         "id":"null",
-         "icon":"URL",
-         "item_tier":"null",
-         "item_category":"null",
+         "id":"r001",
+         "icon":"http://mlbb.realityblender.com/items/shadow-mask.png",
+         "item_tier":"3",
+         "item_category":"Roaming",
          "data":[
             {
-               "cost":"null",
-               "summary":"null",
+               "cost":"1750",
+               "summary":"Groupt Stealth",
                "modifiers":[
                   {
+                     "hp":"700",
+                     "cd_reduction":"10%"
+                  }
+               ],
+               "active":[
+                  {
+                     "active_name":"Conceal",
+                     "description":"Conceals you and your teammates nearby increases movement speed by 15%. Lasts 5s. Dealing or taking damage will end the state. Cools down every 80s. ",
+                     "modifiers":[
 
+                     ]
                   }
                ],
                "passive":[
@@ -3532,21 +3542,16 @@
                      "passive_name":"null",
                      "description":"null",
                      "modifiers":[
-
-                     ]
-                  },
-                  {
-                     "passive_name":"null",
-                     "description":"null",
-                     "modifiers":[
-
+                        {
+                           "movement_speed":"25%"
+                        }
                      ]
                   }
                ],
                "unique_passive":[
                   {
-                     "unique_passive_name":"null",
-                     "description":"null",
+                     "unique_passive_name":"Devotion",
+                     "description":"Obtain 2 XP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
                      "modifiers":[
                         {
 
@@ -3554,8 +3559,8 @@
                      ]
                   },
                   {
-                     "unique_passive_name":"null",
-                     "description":"null",
+                     "unique_passive_name":"Thriving",
+                     "description":"Gains extra 35% gold and XP with assists. When your gold ranks 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s.",
                      "modifiers":[
                         {
 
@@ -3565,13 +3570,7 @@
                ],
                "build_path":[
                   {
-                     "item_name":"null"
-                  },
-                  {
-                     "item_name":"null"
-                  },
-                  {
-                     "item_name":"null"
+                     "item_name":"Iron Mask"
                   }
                ]
             }
@@ -3579,17 +3578,27 @@
       },
       {
          "item_name":"Courage Mask",
-         "id":"null",
-         "icon":"URL",
-         "item_tier":"null",
-         "item_category":"null",
+         "id":"r002",
+         "icon":"http://mlbb.realityblender.com/items/courage-mask.png",
+         "item_tier":"3",
+         "item_category":"Roaming",
          "data":[
             {
-               "cost":"null",
-               "summary":"null",
+               "cost":"1750",
+               "summary":"Team Buff",
                "modifiers":[
                   {
+                     "hp":"700",
+                     "cd_reduction":"10%"
+                  }
+               ],
+               "active":[
+                  {
+                     "active_name":"Encourage",
+                     "description":"Increase movement speed of the hero and neaby allied heroes by 30%. Also increases physical & magic attack by 20%. Last 3s. The CD is 80s.",
+                     "modifiers":[
 
+                     ]
                   }
                ],
                "passive":[
@@ -3597,21 +3606,16 @@
                      "passive_name":"null",
                      "description":"null",
                      "modifiers":[
-
-                     ]
-                  },
-                  {
-                     "passive_name":"null",
-                     "description":"null",
-                     "modifiers":[
-
+                        {
+                           "movement_speed":"25%"
+                        }
                      ]
                   }
                ],
                "unique_passive":[
                   {
-                     "unique_passive_name":"null",
-                     "description":"null",
+                     "unique_passive_name":"Bravery",
+                     "description":"Increases 10% of Physical & Magic Attack, 10% of Physical and Magic Defense and 50% of HP & Mana Regen for nearby allies.",
                      "modifiers":[
                         {
 
@@ -3619,8 +3623,17 @@
                      ]
                   },
                   {
-                     "unique_passive_name":"null",
-                     "description":"null",
+                     "unique_passive_name":"Devotion",
+                     "description":"Obtain 2 XP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+                     "modifiers":[
+                        {
+
+                        }
+                     ]
+                  },
+                  {
+                     "unique_passive_name":"Thriving",
+                     "description":"Gains extra 35% gold and XP with assists. When your gold ranks 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s.",
                      "modifiers":[
                         {
 
@@ -3630,13 +3643,7 @@
                ],
                "build_path":[
                   {
-                     "item_name":"null"
-                  },
-                  {
-                     "item_name":"null"
-                  },
-                  {
-                     "item_name":"null"
+                     "item_name":"Iron Mask"
                   }
                ]
             }
@@ -3644,17 +3651,27 @@
       },
       {
          "item_name":"Awe Mask",
-         "id":"null",
-         "icon":"URL",
-         "item_tier":"null",
-         "item_category":"null",
+         "id":"r003",
+         "icon":"http://mlbb.realityblender.com/items/awe-mask.png",
+         "item_tier":"3",
+         "item_category":"Roaming",
          "data":[
             {
-               "cost":"null",
-               "summary":"null",
+               "cost":"1750",
+               "summary":"Single Target Stun",
                "modifiers":[
                   {
+                     "hp":"700",
+                     "cd_reduction":"10%"
+                  }
+               ],
+               "active":[
+                  {
+                     "active_name":"null",
+                     "description":"null",
+                     "modifiers":[
 
+                     ]
                   }
                ],
                "passive":[
@@ -3662,21 +3679,16 @@
                      "passive_name":"null",
                      "description":"null",
                      "modifiers":[
-
-                     ]
-                  },
-                  {
-                     "passive_name":"null",
-                     "description":"null",
-                     "modifiers":[
-
+                        {
+                           "movement_speed":"25%"
+                        }
                      ]
                   }
                ],
                "unique_passive":[
                   {
-                     "unique_passive_name":"null",
-                     "description":"null",
+                     "unique_passive_name":"Deter",
+                     "description":"Basic attack will mark an enemy hero for 1.2s (Each mark will refresh the duration. A target cannot be marked twice in 0.6s) During the mark timethis hero will be stunned for 1.5s when attacked 5 times by you or your teammates. cools down every 40s.",
                      "modifiers":[
                         {
 
@@ -3684,8 +3696,17 @@
                      ]
                   },
                   {
-                     "unique_passive_name":"null",
-                     "description":"null",
+                     "unique_passive_name":"Devotion",
+                     "description":"Obtain 2 XP and Gold every 4s. In the first 12 minutes of the match, this equipment makes you gain nothing from Minions or Creeps if there are teammates without Roaming Equipment, or those with but have higher EXP or Gold than yours around you. They will share the whole EXP or Gold.",
+                     "modifiers":[
+                        {
+
+                        }
+                     ]
+                  },
+                  {
+                     "unique_passive_name":"Thriving",
+                     "description":"Gains extra 35% gold and XP with assists. When your gold ranks 5th in your team, increase Gold you gain to 20 per 4s. When your EXP ranks the 5th in your team, increase EXP you gain to 35 per 4s.",
                      "modifiers":[
                         {
 
@@ -3695,13 +3716,7 @@
                ],
                "build_path":[
                   {
-                     "item_name":"null"
-                  },
-                  {
-                     "item_name":"null"
-                  },
-                  {
-                     "item_name":"null"
+                     "item_name":"Iron Mask"
                   }
                ]
             }
