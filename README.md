@@ -12,15 +12,15 @@ When calculating basic attributes we use the formula:
 - Item Metadata Schema is defined in root/item-meta.json
 
 Each of these follows the structure:
-{
-   "title":"name of schema",
-   "revdate":"MM-DD-YYYY",
-   "data":[
-      {
-      ...this section repeatable per hero/item/emblem...
-      }
-    ]
-  }
+  {
+     "title":"name of schema",
+     "revdate":"MM-DD-YYYY",
+     "data":[
+        {
+        ...this section repeatable per hero/item/emblem...
+        }
+      ]
+    }
 
 To contribute, please make sure that you use a JSON Validator before submitting.
 I recommend:
