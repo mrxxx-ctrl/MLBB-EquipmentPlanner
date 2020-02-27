@@ -17,6 +17,11 @@ Each of these follows the structure:
       ]
     }
 
+NOTE:
+At present, we are only taking into account the MAXIMUM attribute calculation.
+Thus, when abilities have levels: e.g. 30 / 40 / 50 / 60 / 70 / 80, we will only calculate modifications at 80
+Additionally, we are assuming that emblems are at Level 3 on all tiers.
+
 To contribute, please make sure that you use a JSON Validator before submitting.
 I recommend:
 https://jsonformatter.curiousconcept.com/
