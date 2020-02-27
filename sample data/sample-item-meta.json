@@ -19,7 +19,6 @@
                      "physical_defense":"54",
                      "physical_lifesteal":"null",
                      "physical_penetration":"null",
-                     "magic_attack":"null",
                      "magic_power":"null",
                      "magic_penetration":"null",
                      "magic_lifesteal":"null",
@@ -59,7 +58,7 @@
                "unique_passive":[
                   {
                      "unique_passive_name":"Deter",
-                     "description":"Unique Passive: Deter - When an enemy hero attacksreduces physical & magic attack by 6%. This effect lasts 2s. Stacks up to 3 times.",
+                     "description":"Unique Passive: Deter - When an enemy hero attacks, reduces physical & magic attack by 6%. This effect lasts 2s. Stacks up to 3 times.",
                      "modifiers":[
                         {
 
@@ -95,7 +94,6 @@
                      "physical_defense":"null",
                      "physical_lifesteal":"null",
                      "physical_penetration":"null",
-                     "magic_attack":"null",
                      "magic_power":"null",
                      "magic_penetration":"15",
                      "magic_lifesteal":"null",
@@ -151,44 +149,44 @@
             }
          ]
       },
-	  {
+      {
          "item_name":"Ares Belt",
          "id":"i003",
          "icon":"URL",
          "item_tier":"2",
-		 "item_category":"Defense",
+         "item_category":"Defense",
          "data":[
             {
                "cost":"900",
-			   "summary":"null",
+               "summary":"null",
                "modifiers":[
-            {
-               "movement_speed":"null",
-               "physical_attack":"null",
-               "physical_defense":"null",
-               "physical_lifesteal":"null",
-               "physical_penetration":"null",
-			   "magic_attack":"null",
-               "magic_power":"null",
-               "magic_penetration":"null",
-               "magic_lifesteal":"null",
-               "spell_vamp":"null",
-               "armor":"null",
-               "magic_resistance":"null",
-               "hp":"770",
-               "mana":"null",
-               "attack_speed":"null",
-               "hp_regen_rate":"null",
-               "mana_regen_rate":"null",
-               "critical_strike_chance":"null",
-               "critical_damage":"null",
-               "cd_reduction":"null",
-			   "bs_cd_reduction":"null",
-			   "healing_effect":"null",
-			   "monster_damage_reduction":"null",
-			   "monster_damage":"null"
-            }
-         ],
+                  {
+                     "movement_speed":"null",
+                     "physical_attack":"null",
+                     "physical_defense":"null",
+                     "physical_lifesteal":"null",
+                     "physical_penetration":"null",
+                     "magic_attack":"null",
+                     "magic_power":"null",
+                     "magic_penetration":"null",
+                     "magic_lifesteal":"null",
+                     "spell_vamp":"null",
+                     "armor":"null",
+                     "magic_resistance":"null",
+                     "hp":"770",
+                     "mana":"null",
+                     "attack_speed":"null",
+                     "hp_regen_rate":"null",
+                     "mana_regen_rate":"null",
+                     "critical_strike_chance":"null",
+                     "critical_damage":"null",
+                     "cd_reduction":"null",
+                     "bs_cd_reduction":"null",
+                     "healing_effect":"null",
+                     "monster_damage_reduction":"null",
+                     "monster_damage":"null"
+                  }
+               ],
                "build_path":[
                   {
                      "item_name":"Vitality Crystal"
