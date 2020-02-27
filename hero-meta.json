@@ -12,11 +12,10 @@
                "skill_name":"null",
                "skill_icon":"URL",
                "type":"passive|active",
-               "name":"null",
                "cooldown":"null",
                "manacost":"null",
                "description":"null",
-               "modifiers":[
+               "calc":[
                   {
 
                   }
@@ -26,11 +25,10 @@
                "skill_name":"null",
                "skill_icon":"URL",
                "type":"passive|active",
-               "name":"null",
                "cooldown":"null",
                "manacost":"null",
                "description":"null",
-               "modifiers":[
+               "calc":[
                   {
 
                   }
@@ -40,11 +38,10 @@
                "skill_name":"null",
                "skill_icon":"URL",
                "type":"passive|active",
-               "name":"null",
                "cooldown":"null",
                "manacost":"null",
                "description":"null",
-               "modifiers":[
+               "calc":[
                   {
 
                   }
