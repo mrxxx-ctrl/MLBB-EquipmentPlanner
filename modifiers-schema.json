@@ -10,7 +10,7 @@
                "physical_defense":"null",
                "physical_lifesteal":"null",
                "physical_penetration":"null",
-			   "magic_attack":"null",
+               "magic_attack":"null",
                "magic_power":"null",
                "magic_penetration":"null",
                "magic_lifesteal":"null",
@@ -25,10 +25,10 @@
                "critical_strike_chance":"null",
                "critical_damage":"null",
                "cd_reduction":"null",
-			   "bs_cd_reduction":"null",
-			   "healing_effect":"null",
-			   "monster_damage_reduction":"null",
-			   "monster_damage":"null"
+               "bs_cd_reduction":"null",
+               "healing_effect":"null",
+               "monster_damage_reduction":"null",
+               "monster_damage":"null"
             }
          ]
       }
