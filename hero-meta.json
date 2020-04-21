@@ -14,12 +14,7 @@
                "type":"passive|active",
                "cooldown":"null",
                "manacost":"null",
-               "description":"null",
-               "calc":[
-                  {
-
-                  }
-               ]
+               "description":"null"
             },
             {
                "skill_name":"null",
@@ -27,12 +22,7 @@
                "type":"passive|active",
                "cooldown":"null",
                "manacost":"null",
-               "description":"null",
-               "calc":[
-                  {
-
-                  }
-               ]
+               "description":"null"
             },
             {
                "skill_name":"null",
@@ -40,12 +30,7 @@
                "type":"passive|active",
                "cooldown":"null",
                "manacost":"null",
-               "description":"null",
-               "calc":[
-                  {
-
-                  }
-               ]
+               "description":"null"
             }
          ],
          "base_attributes":[
