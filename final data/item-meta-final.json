@@ -1,10 +1,10 @@
 {
    "title":"item-schema",
-   "revdate":"04-20-2020",
+   "revdate":"04-21-2020",
    "data":[
       {
          "item_name":"Antique Cuirass",
-         "id":"null",
+         "id":"d001",
          "icon":"http://mlbb.realityblender.com/items/antique-cuirass.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -70,7 +70,7 @@
       },
       {
          "item_name":"Arcane Boots",
-         "id":"null",
+         "id":"mo001",
          "icon":"http://mlbb.realityblender.com/items/arcane-boots.png",
          "item_tier":"2",
          "item_category":"Movement",
@@ -125,7 +125,7 @@
       },
       {
          "item_name":"Ares Belt",
-         "id":"null",
+         "id":"d002",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Defense",
@@ -177,7 +177,7 @@
       },
       {
          "item_name":"Athena's Shield",
-         "id":"null",
+         "id":"d003",
          "icon":"http://mlbb.realityblender.com/items/athena-s-shield.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -234,7 +234,7 @@
       },
       {
          "item_name":"Awe Mask",
-         "id":"r003",
+         "id":"r001",
          "icon":"http://mlbb.realityblender.com/items/awe-mask.png",
          "item_tier":"3",
          "item_category":"Roaming",
@@ -307,7 +307,7 @@
       },
       {
          "item_name":"Azure Blade",
-         "id":"null",
+         "id":"m001",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Magic",
@@ -364,7 +364,7 @@
       },
       {
          "item_name":"Beast Killer",
-         "id":"null",
+         "id":"j001",
          "icon":"http://mlbb.realityblender.com/items/beast-killer.png",
          "item_tier":"3",
          "item_category":"Jungling",
@@ -452,7 +452,7 @@
       },
       {
          "item_name":"Berserker's Fury",
-         "id":"null",
+         "id":"a001",
          "icon":"http://mlbb.realityblender.com/items/berserker-s-fury.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -513,7 +513,7 @@
       },
       {
          "item_name":"Black ice-shield",
-         "id":"null",
+         "id":"d004",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Defense",
@@ -569,7 +569,7 @@
       },
       {
          "item_name":"Blade Armor",
-         "id":"null",
+         "id":"d005",
          "icon":"http://mlbb.realityblender.com/items/blade-armor.png",
          "item_tier":"2",
          "item_category":"Defense",
@@ -627,7 +627,7 @@
       },
       {
          "item_name":"Blade of Despair",
-         "id":"null",
+         "id":"a002",
          "icon":"http://mlbb.realityblender.com/items/blade-of-despair.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -683,7 +683,7 @@
       },
       {
          "item_name":"Blade of the Heptaseas",
-         "id":"null",
+         "id":"a003",
          "icon":"http://mlbb.realityblender.com/items/blade-of-the-heptaseas.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -744,7 +744,7 @@
       },
       {
          "item_name":"Blood Wings",
-         "id":"null",
+         "id":"m002",
          "icon":"http://mlbb.realityblender.com/items/blood-wings.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -800,7 +800,7 @@
       },
       {
          "item_name":"Bloodlust Axe",
-         "id":"null",
+         "id":"a004",
          "icon":"http://mlbb.realityblender.com/items/bloodlust-axe.png",
          "item_tier":"null",
          "item_category":"Attack",
@@ -861,7 +861,7 @@
       },
       {
          "item_name":"Book of Sages",
-         "id":"null",
+         "id":"m003",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -914,7 +914,7 @@
       },
       {
          "item_name":"Boots",
-         "id":"null",
+         "id":"mo002",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Movement",
@@ -966,7 +966,7 @@
       },
       {
          "item_name":"Brute Force Breastplate",
-         "id":"null",
+         "id":"d006",
          "icon":"http://mlbb.realityblender.com/items/brute-force-breastplate.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -1022,7 +1022,7 @@
       },
       {
          "item_name":"Calamity Reaper",
-         "id":"null",
+         "id":"m004",
          "icon":"http://mlbb.realityblender.com/items/calamity-reaper.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -1080,7 +1080,7 @@
       },
       {
          "item_name":"Clock of Destiny",
-         "id":"null",
+         "id":"m005",
          "icon":"http://mlbb.realityblender.com/items/clock-of-destiny.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -1146,7 +1146,7 @@
       },
       {
          "item_name":"Concentrated Energy",
-         "id":"null",
+         "id":"m006",
          "icon":"http://mlbb.realityblender.com/items/concentrated-energy.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -1207,7 +1207,7 @@
       },
       {
          "item_name":"Corrosion Scythe",
-         "id":"null",
+         "id":"a005",
          "icon":"http://mlbb.realityblender.com/items/corrosion-scythe.png",
          "item_tier":"2",
          "item_category":"Attack",
@@ -1346,7 +1346,7 @@
       },
       {
          "item_name":"Cursed Helmet",
-         "id":"null",
+         "id":"d007",
          "icon":"http://mlbb.realityblender.com/items/cursed-helmet.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -1402,7 +1402,7 @@
       },
       {
          "item_name":"Dagger (Attack Speed)",
-         "id":"null",
+         "id":"a006",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -1454,7 +1454,7 @@
       },
       {
          "item_name":"Dagger (Physical Attack)",
-         "id":"null",
+         "id":"a007",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -1506,7 +1506,7 @@
       },
       {
          "item_name":"Deadly Blade",
-         "id":"null",
+         "id":"a008",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Attack",
@@ -1565,7 +1565,7 @@
       },
       {
          "item_name":"Demon Hunter Sword",
-         "id":"null",
+         "id":"a009",
          "icon":"http://mlbb.realityblender.com/items/demon-hunter-sword.png",
          "item_tier":"2",
          "item_category":"Attack",
@@ -1633,7 +1633,7 @@
       },
       {
          "item_name":"Demon Shoes",
-         "id":"null",
+         "id":"mo003",
          "icon":"http://mlbb.realityblender.com/items/demon-shoes.png",
          "item_tier":"3",
          "item_category":"Movement",
@@ -1693,7 +1693,7 @@
       },
       {
          "item_name":"Divine Glaive",
-         "id":"null",
+         "id":"m007",
          "icon":"http://mlbb.realityblender.com/items/divine-glaive.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -1747,7 +1747,7 @@
       },
       {
          "item_name":"Dominance Ice",
-         "id":"null",
+         "id":"d008",
          "icon":"http://mlbb.realityblender.com/items/dominance-ice.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -1805,7 +1805,7 @@
       },
       {
          "item_name":"Dreadnaught Armor",
-         "id":"null",
+         "id":"m008",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Magic",
@@ -1860,7 +1860,7 @@
       },
       {
          "item_name":"Elegant Gem",
-         "id":"null",
+         "id":"m009",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Magic",
@@ -1916,7 +1916,7 @@
       },
       {
          "item_name":"Enchanted Talisman",
-         "id":"null",
+         "id":"m010",
          "icon":"http://mlbb.realityblender.com/items/enchanted-talisman.png",
          "item_tier":"2",
          "item_category":"Magic",
@@ -1976,7 +1976,7 @@
       },
       {
          "item_name":"Endless Battle",
-         "id":"null",
+         "id":"a010",
          "icon":"http://mlbb.realityblender.com/items/endless-battle.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -2048,7 +2048,7 @@
       },
       {
          "item_name":"Exotic Veil",
-         "id":"null",
+         "id":"m011",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Magic",
@@ -2101,7 +2101,7 @@
       },
       {
          "item_name":"Feather of Heaven",
-         "id":"null",
+         "id":"m012",
          "icon":"http://mlbb.realityblender.com/items/feather-of-heaven.png",
          "item_tier":"2",
          "item_category":"Magic",
@@ -2161,7 +2161,7 @@
       },
       {
          "item_name":"Fleeting Time",
-         "id":"null",
+         "id":"m013",
          "icon":"http://mlbb.realityblender.com/items/fleeting-time.png",
          "item_tier":"2",
          "item_category":"Magic",
@@ -2217,7 +2217,7 @@
       },
       {
          "item_name":"Fury Hammer",
-         "id":"null",
+         "id":"a011",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Attack",
@@ -2270,7 +2270,7 @@
       },
       {
          "item_name":"Genius Wand",
-         "id":"null",
+         "id":"m014",
          "icon":"http://mlbb.realityblender.com/items/genius-wand.png",
          "item_tier":"null",
          "item_category":"Magic",
@@ -2325,7 +2325,7 @@
       },
       {
          "item_name":"Glowing Wand",
-         "id":"null",
+         "id":"m015",
          "icon":"http://mlbb.realityblender.com/items/glowing-wand.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -2385,7 +2385,7 @@
       },
       {
          "item_name":"Golden Staff",
-         "id":"null",
+         "id":"a012",
          "icon":"http://mlbb.realityblender.com/items/golden-staff.png",
          "item_tier":"2",
          "item_category":"Attack",
@@ -2449,7 +2449,7 @@
       },
       {
          "item_name":"Haas's Claws",
-         "id":"null",
+         "id":"a013",
          "icon":"http://mlbb.realityblender.com/items/haas-s-claws.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -2506,7 +2506,7 @@
       },
       {
          "item_name":"Healing Necklace",
-         "id":"null",
+         "id":"d009",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Defense",
@@ -2558,7 +2558,7 @@
       },
       {
          "item_name":"Hero's Ring",
-         "id":"null",
+         "id":"d010",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Defense",
@@ -2611,7 +2611,7 @@
       },
       {
          "item_name":"Holy Crystal",
-         "id":"null",
+         "id":"m016",
          "icon":"http://mlbb.realityblender.com/items/holy-crystal.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -2666,7 +2666,7 @@
       },
       {
          "item_name":"Hunter Strike",
-         "id":"null",
+         "id":"a014",
          "icon":"http://mlbb.realityblender.com/items/hunter-strike.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -2727,7 +2727,7 @@
       },
       {
          "item_name":"Hunter's Knife",
-         "id":"null",
+         "id":"j002",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Jungling",
@@ -2779,7 +2779,7 @@
       },
       {
          "item_name":"Ice Queen Wand",
-         "id":"null",
+         "id":"m017",
          "icon":"http://mlbb.realityblender.com/items/ice-queen-wand.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -2837,7 +2837,7 @@
       },
       {
          "item_name":"Immortality",
-         "id":"null",
+         "id":"d011",
          "icon":"http://mlbb.realityblender.com/items/immortality.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -2893,7 +2893,7 @@
       },
       {
          "item_name":"Iron Hunting Bow",
-         "id":"null",
+         "id":"a015",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -2946,7 +2946,7 @@
       },
       {
          "item_name":"Iron Mask",
-         "id":"null",
+         "id":"r003",
          "icon":"URL",
          "item_tier":"null",
          "item_category":"Roaming",
@@ -3007,7 +3007,7 @@
       },
       {
          "item_name":"Javelin",
-         "id":"null",
+         "id":"a016",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -3059,7 +3059,7 @@
       },
       {
          "item_name":"Leather Jerkin",
-         "id":"null",
+         "id":"d012",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Defense",
@@ -3111,7 +3111,7 @@
       },
       {
          "item_name":"Legion Sword",
-         "id":"null",
+         "id":"a017",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Attack",
@@ -3166,7 +3166,7 @@
       },
       {
          "item_name":"Lightning Truncheon",
-         "id":"null",
+         "id":"m018",
          "icon":"http://mlbb.realityblender.com/items/lightning-truncheon.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -3226,7 +3226,7 @@
       },
       {
          "item_name":"Magic",
-         "id":"null",
+         "id":"d013",
          "icon":"URL",
          "item_tier":"null",
          "item_category":"Defense",
@@ -3278,7 +3278,7 @@
       },
       {
          "item_name":"Magic Blade",
-         "id":"null",
+         "id":"a018",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Attack",
@@ -3334,7 +3334,7 @@
       },
       {
          "item_name":"Magic Necklace",
-         "id":"null",
+         "id":"m019",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -3386,10 +3386,10 @@
       },
       {
          "item_name":"Magic Potion",
-         "id":"null",
+         "id":"m020",
          "icon":"URL",
          "item_tier":"1",
-         "item_category":"null",
+         "item_category":"Magic",
          "data":[
             {
                "cost":"1500",
@@ -3438,7 +3438,7 @@
       },
       {
          "item_name":"Magic Resist Cloak",
-         "id":"null",
+         "id":"d014",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Defense",
@@ -3490,8 +3490,8 @@
       },
       {
          "item_name":"Magic Shoes",
-         "id":"http://mlbb.realityblender.com/items/magic-shoes.png",
-         "icon":"URL",
+         "id":"mo004",
+         "icon":"http://mlbb.realityblender.com/items/magic-shoes.png",
          "item_tier":"2",
          "item_category":"Movement",
          "data":[
@@ -3544,7 +3544,7 @@
       },
       {
          "item_name":"Magic Wand",
-         "id":"null",
+         "id":"m021",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Magic",
@@ -3596,7 +3596,7 @@
       },
       {
          "item_name":"Malefic Roar",
-         "id":"null",
+         "id":"a019",
          "icon":"http://mlbb.realityblender.com/items/malefic-roar.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -3650,7 +3650,7 @@
       },
       {
          "item_name":"Molten Essence",
-         "id":"null",
+         "id":"d015",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Defense",
@@ -3702,7 +3702,7 @@
       },
       {
          "item_name":"Mystery Codex",
-         "id":"null",
+         "id":"m022",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -3754,7 +3754,7 @@
       },
       {
          "item_name":"Mystic Container",
-         "id":"null",
+         "id":"m023",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -3807,7 +3807,7 @@
       },
       {
          "item_name":"Necklace of Durance",
-         "id":"null",
+         "id":"m024",
          "icon":"http://mlbb.realityblender.com/items/necklace-of-durance.png",
          "item_tier":"2",
          "item_category":"Magic",
@@ -3867,7 +3867,7 @@
       },
       {
          "item_name":"Nimble Blade",
-         "id":"null",
+         "id":"j003",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Jungling",
@@ -3937,7 +3937,7 @@
       },
       {
          "item_name":"Odd Potion",
-         "id":"null",
+         "id":"m025",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -3989,7 +3989,7 @@
       },
       {
          "item_name":"Ogre Tomahawk",
-         "id":"null",
+         "id":"a020",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Attack",
@@ -4045,7 +4045,7 @@
       },
       {
          "item_name":"Oracle",
-         "id":"null",
+         "id":"d016",
          "icon":"http://mlbb.realityblender.com/items/oracle.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -4102,7 +4102,7 @@
       },
       {
          "item_name":"Pillager Axe",
-         "id":"null",
+         "id":"j004",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Jungling",
@@ -4163,7 +4163,7 @@
       },
       {
          "item_name":"Power Crystal",
-         "id":"null",
+         "id":"m026",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -4215,7 +4215,7 @@
       },
       {
          "item_name":"Power Potion",
-         "id":"null",
+         "id":"a021",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -4267,7 +4267,7 @@
       },
       {
          "item_name":"Queen's Wings",
-         "id":"null",
+         "id":"d017",
          "icon":"http://mlbb.realityblender.com/items/queen-s-wings.png",
          "item_tier":"2",
          "item_category":"Defense",
@@ -4324,7 +4324,7 @@
       },
       {
          "item_name":"Rapid Boots",
-         "id":"null",
+         "id":"mo005",
          "icon":"http://mlbb.realityblender.com/items/rapid-boots.png",
          "item_tier":"3",
          "item_category":"Movement",
@@ -4378,7 +4378,7 @@
       },
       {
          "item_name":"Raptor Machete",
-         "id":"null",
+         "id":"j005",
          "icon":"http://mlbb.realityblender.com/items/raptor-machete.png",
          "item_tier":"3",
          "item_category":"Jungling",
@@ -4466,7 +4466,7 @@
       },
       {
          "item_name":"Regular Spear",
-         "id":"null",
+         "id":"a022",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -4519,7 +4519,7 @@
       },
       {
          "item_name":"Rock Potion",
-         "id":"null",
+         "id":"d018",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Defense",
@@ -4571,7 +4571,7 @@
       },
       {
          "item_name":"Rogue Meteor",
-         "id":"null",
+         "id":"a023",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Attack",
@@ -4627,7 +4627,7 @@
       },
       {
          "item_name":"Rose Gold Meteor",
-         "id":"null",
+         "id":"a024",
          "icon":"http://mlbb.realityblender.com/items/rose-gold-meteor.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -4684,7 +4684,7 @@
       },
       {
          "item_name":"Scarlet Phantom",
-         "id":"null",
+         "id":"a025",
          "icon":"http://mlbb.realityblender.com/items/scarlet-phantom.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -4741,7 +4741,7 @@
       },
       {
          "item_name":"Sea Halberd",
-         "id":"null",
+         "id":"a026",
          "icon":"http://mlbb.realityblender.com/items/sea-halberd.png",
          "item_tier":"null",
          "item_category":"Attack",
@@ -4794,7 +4794,7 @@
       },
       {
          "item_name":"Shadow Mask",
-         "id":"r001",
+         "id":"r004",
          "icon":"http://mlbb.realityblender.com/items/shadow-mask.png",
          "item_tier":"3",
          "item_category":"Roaming",
@@ -4858,7 +4858,7 @@
       },
       {
          "item_name":"Silence Robe",
-         "id":"null",
+         "id":"d019",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Defense",
@@ -4914,7 +4914,7 @@
       },
       {
          "item_name":"Sky Guardian Helmet",
-         "id":"null",
+         "id":"d020",
          "icon":"http://mlbb.realityblender.com/items/guardian-helmet.png",
          "item_tier":"3",
          "item_category":"Defense",
@@ -4973,7 +4973,7 @@
       },
       {
          "item_name":"Spirit Wheel",
-         "id":"null",
+         "id":"m027",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Magic",
@@ -5025,7 +5025,7 @@
       },
       {
          "item_name":"Star Shard",
-         "id":"null",
+         "id":"j006",
          "icon":"http://mlbb.realityblender.com/items/star-shard.png",
          "item_tier":"3",
          "item_category":"Jungling",
@@ -5114,7 +5114,7 @@
       },
       {
          "item_name":"Swift Boots",
-         "id":"null",
+         "id":"mo006",
          "icon":"http://mlbb.realityblender.com/items/swift-boots.png",
          "item_tier":"2",
          "item_category":"Movement",
@@ -5171,7 +5171,7 @@
       },
       {
          "item_name":"Thunder Belt",
-         "id":"null",
+         "id":"d021",
          "icon":"http://mlbb.realityblender.com/items/thunder-belt.png",
          "item_tier":"2",
          "item_category":"Defense",
@@ -5232,7 +5232,7 @@
       },
       {
          "item_name":"Tome of Evil",
-         "id":"null",
+         "id":"m029",
          "icon":"URL",
          "item_tier":"2",
          "item_category":"Magic",
@@ -5289,7 +5289,7 @@
       },
       {
          "item_name":"Tough Boots",
-         "id":"null",
+         "id":"mo007",
          "icon":"http://mlbb.realityblender.com/items/tough-boots.png",
          "item_tier":"2",
          "item_category":"Movement",
@@ -5346,7 +5346,7 @@
       },
       {
          "item_name":"Twilight Armor",
-         "id":"null",
+         "id":"m029",
          "icon":"http://mlbb.realityblender.com/items/twilight-armor.png",
          "item_tier":"3",
          "item_category":"Magic",
@@ -5406,7 +5406,7 @@
       },
       {
          "item_name":"Vammpire Mallet",
-         "id":"null",
+         "id":"a027",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Attack",
@@ -5459,7 +5459,7 @@
       },
       {
          "item_name":"Vitality Crystal",
-         "id":"null",
+         "id":"d022",
          "icon":"URL",
          "item_tier":"1",
          "item_category":"Defense",
@@ -5511,7 +5511,7 @@
       },
       {
          "item_name":"Warrior Boots",
-         "id":"null",
+         "id":"mo008",
          "icon":"http://mlbb.realityblender.com/items/warrior-boots.png",
          "item_tier":"2",
          "item_category":"Movement",
@@ -5568,7 +5568,7 @@
       },
       {
          "item_name":"Windtalker",
-         "id":"null",
+         "id":"a028",
          "icon":"http://mlbb.realityblender.com/items/windtalker.png",
          "item_tier":"3",
          "item_category":"Attack",
@@ -5634,7 +5634,7 @@
       },
       {
          "item_name":"Wind of Nature",
-         "id":"null",
+         "id":"a029",
          "icon":"http://mlbb.realityblender.com/items/wind-of-nature.png",
          "item_tier":"2",
          "item_category":"Attack",
@@ -5694,7 +5694,7 @@
       },
       {
          "item_name":"Winter Truncheon",
-         "id":"null",
+         "id":"m030",
          "icon":"http://mlbb.realityblender.com/items/winter-truncheon.png",
          "item_tier":"2",
          "item_category":"Magic",
@@ -5751,7 +5751,7 @@
       },
       {
          "item_name":"Wooden Mask",
-         "id":"null",
+         "id":"r005",
          "icon":"URL",
          "item_tier":"null",
          "item_category":"Roaming",
