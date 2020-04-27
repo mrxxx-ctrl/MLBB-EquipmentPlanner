@@ -11,7 +11,7 @@
          "skills":[
             {
                "skill_name":"Tai Chi",
-               "skill_icon":"http://mlbb.realityblender.com/skills/akai/tai_chi.png",
+               "skill_icon":"http://mlbb.realityblender.com/skills/akai/Tai_Chi.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -19,7 +19,7 @@
             },
             {
                "skill_name":"Thousand Pounder",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/akai/Thousand_Pounder.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"70",
@@ -27,7 +27,7 @@
             },
             {
                "skill_name":"Hurricane Dance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/akai/Hurricane_Dance.png",
                "type":"active",
                "cooldown":"35.5",
                "manacost":"120",
@@ -35,7 +35,7 @@
             },
             {
                "skill_name":"Blender",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/akai/Blender.png",
                "type":"active",
                "cooldown":"6.5",
                "manacost":"65",
@@ -79,7 +79,7 @@
          "skills":[
             {
                "skill_name":"Contract Transform",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aldous/Contract_Transform.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -87,7 +87,7 @@
             },
             {
                "skill_name":"Contract Soul Steal",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aldous/Contract_Soul_Steal.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"60",
@@ -95,7 +95,7 @@
             },
             {
                "skill_name":"Contract Explosion",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aldous/Contract_Explosion.png",
                "type":"active",
                "cooldown":"15",
                "manacost":"80",
@@ -103,7 +103,7 @@
             },
             {
                "skill_name":"Contract Chase Fate",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aldous/Contract_Chase_Fate.png",
                "type":"active",
                "cooldown":"60",
                "manacost":"150",
@@ -147,7 +147,7 @@
          "skills":[
             {
                "skill_name":"Blood Ancestry",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alice/Blood_Ancestry.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -155,7 +155,7 @@
             },
             {
                "skill_name":"Flowing Blood",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alice/Flowing_Blood.png",
                "type":"active",
                "cooldown":"6",
                "manacost":"90",
@@ -163,7 +163,7 @@
             },
             {
                "skill_name":"Blood Awe",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alice/Blood_Awe.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"90",
@@ -171,7 +171,7 @@
             },
             {
                "skill_name":"Blood Ode",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alice/Blood_Ode.png",
                "type":"active",
                "cooldown":"30",
                "manacost":"135",
@@ -215,7 +215,7 @@
          "skills":[
             {
                "skill_name":"Beta, Advance!",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alpha/Beta,_Advance!.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -223,7 +223,7 @@
             },
             {
                "skill_name":"Rotary Impact",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alpha/Rotary_Impact.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"70",
@@ -231,7 +231,7 @@
             },
             {
                "skill_name":"Force Swing",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alpha/Force_Swing.png",
                "type":"active",
                "cooldown":"9.5",
                "manacost":"70",
@@ -239,7 +239,7 @@
             },
             {
                "skill_name":"Spear of Alpha",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alpha/Spear_of_Alpha.png",
                "type":"active",
                "cooldown":"30",
                "manacost":"130",
@@ -283,7 +283,7 @@
          "skills":[
             {
                "skill_name":"Pursuit",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alucard/Pursuit.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -291,7 +291,7 @@
             },
             {
                "skill_name":"Groundsplitter",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alucard/Groundsplitter.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"null",
@@ -299,7 +299,7 @@
             },
             {
                "skill_name":"Whirling Smash",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alucard/Whirling_Smash.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"null",
@@ -307,7 +307,7 @@
             },
             {
                "skill_name":"Fission Wave",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/alucard/Fission_Wave.png",
                "type":"active",
                "cooldown":"30",
                "manacost":"null",
@@ -351,7 +351,7 @@
          "skills":[
             {
                "skill_name":"Smart Heart",
-               "skill_icon":"URL",
+               "skill_icon":"Uhttp://mlbb.realityblender.com/skills/angela/Smart_Heart.pngRL",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -359,7 +359,7 @@
             },
             {
                "skill_name":"Love Waves",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/angela/Love_Waves.png",
                "type":"active",
                "cooldown":"null",
                "manacost":"70",
@@ -367,7 +367,7 @@
             },
             {
                "skill_name":"Puppet-On-A-String",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/angela/Puppet-on-a-String.png",
                "type":"active",
                "cooldown":"13",
                "manacost":"90",
@@ -375,7 +375,7 @@
             },
             {
                "skill_name":"Heartguard",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/angela/Heartguard.png",
                "type":"active",
                "cooldown":"75",
                "manacost":"100",
@@ -419,7 +419,7 @@
          "skills":[
             {
                "skill_name":"Warmonger",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/argus/Warmonger.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -427,7 +427,7 @@
             },
             {
                "skill_name":"Demonic Grip",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/argus/Demonic_Grip.png",
                "type":"active",
                "cooldown":"12.5",
                "manacost":"null",
@@ -435,7 +435,7 @@
             },
             {
                "skill_name":"Meteoric Sword",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/argus/Meteoric_Sword.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"null",
@@ -443,7 +443,7 @@
             },
             {
                "skill_name":"Eternal Evil",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/argus/Eternal_Evil.png",
                "type":"active",
                "cooldown":"80",
                "manacost":"null",
@@ -487,7 +487,7 @@
          "skills":[
             {
                "skill_name":"Frigid Breath",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/atlas/Frigid_Breath.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -495,7 +495,7 @@
             },
             {
                "skill_name":"Annihilate",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/atlas/Annihilate.png",
                "type":"active",
                "cooldown":"7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5",
                "manacost":"60 / 66 / 72 / 78 / 84 / 90",
@@ -503,7 +503,7 @@
             },
             {
                "skill_name":"Perfect Match",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/atlas/Perfect_Match.png",
                "type":"active",
                "cooldown":"12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
                "manacost":"75 / 80 / 85 / 90 / 95 / 100",
@@ -511,7 +511,7 @@
             },
             {
                "skill_name":"Fatal Links",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/atlas/Fatal_Links.png",
                "type":"active",
                "cooldown":"42.0 / 39.0 / 36.0",
                "manacost":"130 / 150 / 170",
@@ -563,7 +563,7 @@
             },
             {
                "skill_name":"Frost Shock",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aurora/Frost_Shock.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"55 / 65 / 75 / 85 / 95 / 105",
@@ -571,7 +571,7 @@
             },
             {
                "skill_name":"Bitter Frost",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aurora/Bitter_Frost.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"110 / 125 / 140 / 155 / 170 / 185",
@@ -579,7 +579,7 @@
             },
             {
                "skill_name":"Cold Destruction",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/aurora/Cold_Destruction.png",
                "type":"active",
                "cooldown":"40.0 / 35.0 / 30.0",
                "manacost":"160 / 200 / 240",
@@ -623,7 +623,7 @@
          "skills":[
             {
                "skill_name":"Chivalry Fist",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/badang/Chivalry_Fist.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -631,7 +631,7 @@
             },
             {
                "skill_name":"Qigong Fist",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/badang/Qigong_Fist.png",
                "type":"active",
                "cooldown":"7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
                "manacost":"null",
@@ -639,7 +639,7 @@
             },
             {
                "skill_name":"Fist Break",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/badang/Fist_Break.png",
                "type":"active",
                "cooldown":"13.5 / 13.0 / 12.5 / 12.0 / 11.5 / 11.0",
                "manacost":"null",
@@ -647,7 +647,7 @@
             },
             {
                "skill_name":"Fist Crack",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/badang/Fist_Crack.png",
                "type":"active",
                "cooldown":"34.0 / 31.0 / 28.0",
                "manacost":"null",
@@ -691,7 +691,7 @@
          "skills":[
             {
                "skill_name":"Bloodthirst",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/balmond/Bloodthirst.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -699,7 +699,7 @@
             },
             {
                "skill_name":"Soul Lock",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/balmond/Soul_Lock.png",
                "type":"active",
                "cooldown":"11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5",
                "manacost":"null",
@@ -707,7 +707,7 @@
             },
             {
                "skill_name":"Cyclone Sweep",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/balmond/Cyclone_Sweep.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"null",
@@ -715,7 +715,7 @@
             },
             {
                "skill_name":"Lethal Counter",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/balmond/Lethal_Counter.png",
                "type":"active",
                "cooldown":"40.0 / 33.0 / 26.0",
                "manacost":"null",
@@ -759,7 +759,7 @@
          "skills":[
             {
                "skill_name":"Shark Bite",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bane/Shark_Bite.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -767,7 +767,7 @@
             },
             {
                "skill_name":"Crab Claw Cannon",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bane/Crab_Claw_Cannon.png",
                "type":"active",
                "cooldown":"6",
                "manacost":"40",
@@ -775,7 +775,7 @@
             },
             {
                "skill_name":"Rum",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bane/Rum.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"60",
@@ -783,7 +783,7 @@
             },
             {
                "skill_name":"Deadly Catch",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bane/Deadly_Catch.png",
                "type":"active",
                "cooldown":"40",
                "manacost":"120",
@@ -827,7 +827,7 @@
          "skills":[
             {
                "skill_name":"Baxia Mark",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/baxia/Baxia_Mark.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -835,7 +835,7 @@
             },
             {
                "skill_name":"Baxia-Shield Unity",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/baxia/Baxia-Shield_Unity.png",
                "type":"active",
                "cooldown":"14.0 / 13.5 / 13.0 / 12.5 / 12.0 / 11.5",
                "manacost":"100 / 110 / 120 / 130 / 140 / 150",
@@ -843,7 +843,7 @@
             },
             {
                "skill_name":"Shield Of Spirit",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/baxia/Shield_of_Spirit.png",
                "type":"active",
                "cooldown":"9.0 / 8.4 / 7.8 / 7.2 / 6.6 / 6.0",
                "manacost":"30 / 35 / 40 / 45 / 50 / 55",
@@ -851,7 +851,7 @@
             },
             {
                "skill_name":"Tortoise's Puissance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/baxia/Tortoise's_Puissance.png",
                "type":"active",
                "cooldown":"30.0 / 27.5 / 25.0",
                "manacost":"150",
@@ -911,7 +911,7 @@
             },
             {
                "skill_name":"Nature's Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/belerick/Nature's_Strike.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"50 / 55 / 60 / 65 / 70 / 75",
@@ -963,7 +963,7 @@
          "skills":[
             {
                "skill_name":"Mecha Legs",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bruno/Mecha_Legs.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -971,7 +971,7 @@
             },
             {
                "skill_name":"Volley Shot",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bruno/Volley_Shot.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"90 / 100 / 110 / 120 / 130 / 140",
@@ -979,7 +979,7 @@
             },
             {
                "skill_name":"Flying Tackle",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bruno/Flying_Tackle.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"60 / 55 / 50 / 45 / 40 / 35",
@@ -987,7 +987,7 @@
             },
             {
                "skill_name":"Wave Of The World Animation",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/bruno/Wave_of_the_World_Animation.png",
                "type":"active",
                "cooldown":"38.0 / 33.0 / 28.0",
                "manacost":"140 / 160 / 180",
@@ -1031,7 +1031,7 @@
          "skills":[
             {
                "skill_name":"Vampire Pact",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/carmilla/Vampire_Pact.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1039,7 +1039,7 @@
             },
             {
                "skill_name":"Crimson Flower",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/carmilla/Crimson_Flower.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"50 / 58 / 66 / 74 / 82 / 90",
@@ -1047,7 +1047,7 @@
             },
             {
                "skill_name":"Bloodbath",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/carmilla/Bloodbath.png",
                "type":"active",
                "cooldown":"12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
                "manacost":"85 / 100 / 115 / 130 / 145 / 160",
@@ -1055,7 +1055,7 @@
             },
             {
                "skill_name":"Curse Of Blood",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/carmilla/Curse_of_Blood.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"50 / 58 / 66 / 74 / 82 / 90",
@@ -1077,9 +1077,85 @@
                "magic_resistance":"13",
                "hp":"2378",
                "mana":"477",
-               "attack_speed":"112",
+               "attack_speed":"12",
                "hp_regen_rate":"45",
                "mana_regen_rate":"34",
+               "critical_strike_chance":"null",
+               "critical_damage":"null",
+               "cd_reduction":"null",
+               "bs_cd_reduction":"null",
+               "healing_effect":"null",
+               "monster_damage_reduction":"null",
+               "monster_damage":"null"
+            }
+         ]
+      },
+      {
+         "hero_name":"Cecilion",
+         "id":"h091",
+         "hero_icon":"http://mlbb.realityblender.com/heroes/cecilion.png",
+         "release_year":"2020",
+         "class":"Mage",
+         "skills":[
+            {
+               "skill_name":"Overflowing",
+               "skill_icon":"URL",
+               "type":"passive",
+               "cooldown":"null",
+               "manacost":"null",
+               "description":"Cecilion will increase his max mana by 8 each time his skill hits an enemy target. This effect cools down in 1 second. Cecilion has higher max mana and mana regeneration speed, and his skill damage scales with his max mana."
+            },
+            {
+               "skill_name":"Sanguine Claws",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
+               "manacost":"95 / 100 / 105 / 110 / 115 / 120",
+               "description":"Cecilion summons a pair of claws in a designated position that will run to each other, slowing down the enemies on the path. After a short delay, the claws pull the enemies to the center, immobilizing them for 1 second and dealing 200 / 220 / 240 / 260 / 280 / 300(+45% Total Magic Power) (+1.2% Total Mana) Magic Damage."
+            },
+            {
+               "skill_name":"Bat Impact",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"1.5",
+               "manacost":"75",
+               "description":"Cecilion orders a giant bat to dive in a designated direction, dealing 100 / 130 / 160 / 190 / 220 / 250(+80% Total Magic Power)(+5% Total Mana) Magic Damage to enemies on the path. The giant bat will stay at its destination and launch another attack, dealing 200 / 260 / 320 / 380 / 440 / 500(+160% Total Magic Power)(+10% Total Mana) Magic Damage to enemies and triggering Overflowing for 1 time. After casting, Cecilion increases his Movement Speed by 30% for 1 second. In 6 seconds, every time Cecilion casts this skill, the mana cost will be increased by 1.8x time(s) (capped at 4 times)."
+            },
+            {
+               "skill_name":"Bats Feast",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"44.0 / 41.0 / 38.0",
+               "manacost":"150 / 200 / 250",
+               "description":"Cecilion unleashes Blood Demon power, increasing his Movement Speed by 60% (decaying rapidly over 1.5 seconds) and gaining immunity to slow effects. Meanwhile, he shoots 40 bolts of blood energy at the enemies nearby, each dealing 30 / 35 / 40(+8% Total Magic Power)(+0.3% Total Mana) Magic Damage and slowing them by 3% (up to 30%) for 1 second. Hitting an enemy heals him for 10 / 12.5 / 15 and 1% of his lost HP."
+            },
+            {
+               "skill_name":"Moonlit Waltz",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"45.0",
+               "manacost":"null",
+               "description":"When Carmilla is nearby, Cecilion can transform her into become a Vermil Shadow to possess him, providing 440-1000 points of shield (scales with Carmilla's level). Carmilla can select a target place and land on there, gaining a same shield, dealing 440-1000 Magic Damage (scales with her level) to enemies within the area effect, and slowing them down by 60% for 1 second."
+            }
+         ],
+         "base_attributes":[
+            {
+               "movement_speed":"255",
+               "physical_attack":"105",
+               "physical_defense":"23",
+               "physical_lifesteal":"null",
+               "physical_penetration":"null",
+               "magic_attack":"null",
+               "magic_power":"0",
+               "magic_penetration":"null",
+               "magic_lifesteal":"null",
+               "spell_vamp":"null",
+               "magic_resistance":"15",
+               "hp":"2425",
+               "mana":"700",
+               "attack_speed":"0.8",
+               "hp_regen_rate":"32",
+               "mana_regen_rate":"35",
                "critical_strike_chance":"null",
                "critical_damage":"null",
                "cd_reduction":"null",
@@ -1099,7 +1175,7 @@
          "skills":[
             {
                "skill_name":"Trouble Maker",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chang'e/Trouble_Maker.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1107,7 +1183,7 @@
             },
             {
                "skill_name":"Starmoon Shockwave",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chang'e/Starmoon_Shockwave.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"70 / 75 / 80 / 85 / 90 / 95",
@@ -1115,7 +1191,7 @@
             },
             {
                "skill_name":"Crescent Moon",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chang'e/Crescent_Moon.png",
                "type":"active",
                "cooldown":"12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
                "manacost":"60 / 70 / 80 / 90 / 100 / 110",
@@ -1123,7 +1199,7 @@
             },
             {
                "skill_name":"Meteor Shower",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chang'e/Meteor_Shower.png",
                "type":"active",
                "cooldown":"36.0 / 33.0 / 30.0",
                "manacost":"150 / 200 / 250",
@@ -1167,7 +1243,7 @@
          "skills":[
             {
                "skill_name":"Only Fast",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chou/Only_Fast.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1175,7 +1251,7 @@
             },
             {
                "skill_name":"Jeet Kune Do",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chou/Jeet_Kune_Do.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"null",
@@ -1183,7 +1259,7 @@
             },
             {
                "skill_name":"Shunpo",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chou/Shunpo.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"null",
@@ -1191,7 +1267,7 @@
             },
             {
                "skill_name":"The Way Of Dragon",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/chou/The_Way_of_Dragon.png",
                "type":"active",
                "cooldown":"34",
                "manacost":"null",
@@ -1235,7 +1311,7 @@
          "skills":[
             {
                "skill_name":"Battle Side-By-Side",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/claude/Battle_Side-By-Side.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1243,7 +1319,7 @@
             },
             {
                "skill_name":"Art Of Thievery",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/claude/Art_of_Thievery.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"65 / 70 / 75 / 80 / 85 / 90",
@@ -1251,7 +1327,7 @@
             },
             {
                "skill_name":"Battle Mirror Image",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/claude/Battle_Mirror_Image.png",
                "type":"active",
                "cooldown":"11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5",
                "manacost":"70 / 80 / 90 / 100 / 110 / 120",
@@ -1259,7 +1335,7 @@
             },
             {
                "skill_name":"Blazing Duet",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/claude/Blazing_Duet.png",
                "type":"active",
                "cooldown":"50.0 / 45.0 / 40.0",
                "manacost":"150 / 175 / 200",
@@ -1303,7 +1379,7 @@
          "skills":[
             {
                "skill_name":"Quick Draw",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/clint/Quick_Draw.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1311,7 +1387,7 @@
             },
             {
                "skill_name":"Blind Smoke",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/clint/Blind_Smoke.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"80 / 90 / 100 / 110 / 120 / 130",
@@ -1319,7 +1395,7 @@
             },
             {
                "skill_name":"Heel Rope",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/clint/Heel_Rope.png",
                "type":"active",
                "cooldown":"12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
                "manacost":"65 / 75 / 85 / 95 / 105 / 115",
@@ -1327,7 +1403,7 @@
             },
             {
                "skill_name":"Howitzer",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/clint/Howitzer.png",
                "type":"active",
                "cooldown":"null",
                "manacost":"65 / 75 / 85",
@@ -1371,7 +1447,7 @@
          "skills":[
             {
                "skill_name":"Starlit Hourglass",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/cyclops/Starlit_Hourglass.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1379,7 +1455,7 @@
             },
             {
                "skill_name":"Stardust Shock",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/cyclops/Stardust_Shock.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"100",
@@ -1387,7 +1463,7 @@
             },
             {
                "skill_name":"Planets Attack",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/cyclops/Planets_Attack.png",
                "type":"active",
                "cooldown":"14.0 / 13.5 / 13.0 / 12.5 / 12.0 / 11.5",
                "manacost":"75 / 85 / 95 / 105 / 115 / 125",
@@ -1395,7 +1471,7 @@
             },
             {
                "skill_name":"Star Power Lockdown",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/cyclops/Star_Power_Lockdown.png",
                "type":"active",
                "cooldown":"43",
                "manacost":"160 / 180 / 200",
@@ -1439,7 +1515,7 @@
          "skills":[
             {
                "skill_name":"Young Again",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/diggie/Young_Again.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1447,7 +1523,7 @@
             },
             {
                "skill_name":"Auto Alarm Bomb",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/diggie/Time_Bomb.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"70 / 80 / 90 / 100 / 110 / 120",
@@ -1455,7 +1531,7 @@
             },
             {
                "skill_name":"Reverse Time",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/diggie/Reverse_Time.png",
                "type":"active",
                "cooldown":"15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0",
                "manacost":"90",
@@ -1463,7 +1539,7 @@
             },
             {
                "skill_name":"Time Journey",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/diggie/Time_Journey.png",
                "type":"active",
                "cooldown":"60",
                "manacost":"130 / 150 / 200",
@@ -1507,7 +1583,7 @@
          "skills":[
             {
                "skill_name":"Wrath Of The Abyss",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/dyrroth/Wrath_of_the_Abyss.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1515,7 +1591,7 @@
             },
             {
                "skill_name":"Burst Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/dyrroth/Burst_Strike.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"null",
@@ -1523,7 +1599,7 @@
             },
             {
                "skill_name":"Spectre Step",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/dyrroth/Spectre_Step.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"null",
@@ -1531,7 +1607,7 @@
             },
             {
                "skill_name":"Abysm Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/dyrroth/Abysm_Strike.png",
                "type":"active",
                "cooldown":"36",
                "manacost":"null",
@@ -1575,7 +1651,7 @@
          "skills":[
             {
                "skill_name":"Starmoon Casket",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/esmeralda/Starmoon_Casket.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1583,7 +1659,7 @@
             },
             {
                "skill_name":"Frostmoon Shield",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/esmeralda/Frostmoon_Shield.png",
                "type":"active",
                "cooldown":"8.5",
                "manacost":"60 / 70 / 80 / 90 / 100 / 110",
@@ -1591,7 +1667,7 @@
             },
             {
                "skill_name":"Stardust Dance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/esmeralda/Stardust_Dance.png",
                "type":"active",
                "cooldown":"7.0 / 6.3 / 5.6 / 4.9 / 4.2 / 3.5",
                "manacost":"75 / 80 / 85 / 90 / 95 / 100",
@@ -1599,7 +1675,7 @@
             },
             {
                "skill_name":"Falling Starmoon",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/esmeralda/Falling_Starmoon.png",
                "type":"active",
                "cooldown":"32.0 / 28.0 / 24.0",
                "manacost":"null",
@@ -1643,7 +1719,7 @@
          "skills":[
             {
                "skill_name":"Scripture Of The Moon Elf",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/estes/Scripture_of_the_Moon_Elf.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1651,7 +1727,7 @@
             },
             {
                "skill_name":"Moonlight Immersion",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/estes/Moonlight_Immersion.png",
                "type":"active",
                "cooldown":"11.0 / 10.2 / 9.4 / 8.6 / 7.8 / 7.0",
                "manacost":"110 / 130 / 150 / 170 / 190 / 210",
@@ -1659,7 +1735,7 @@
             },
             {
                "skill_name":"Domain Of Moon Goddess",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/estes/Domain_of_Moon_Goddess.png",
                "type":"active",
                "cooldown":"12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
                "manacost":"80 / 90 / 100 / 110 / 120 / 130",
@@ -1667,7 +1743,7 @@
             },
             {
                "skill_name":"Blessing Of Moon Goddess",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/estes/Blessing_of_Moon_Goddess.png",
                "type":"active",
                "cooldown":"55.0 / 50.0 / 45.0",
                "manacost":"150 / 250 / 350",
@@ -1711,7 +1787,7 @@
          "skills":[
             {
                "skill_name":"Superconductor",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/eudora/Superconductor.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1719,7 +1795,7 @@
             },
             {
                "skill_name":"Forked Lightning",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/eudora/Forked_Lightning.png",
                "type":"active",
                "cooldown":"8.5 / 8.0 / 7.5 / 7.0 / 6.5 / 6.0",
                "manacost":"80 / 90 / 100 / 110 / 120 / 130",
@@ -1727,7 +1803,7 @@
             },
             {
                "skill_name":"Electric Arrow",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/eudora/Electric_Arrow.png",
                "type":"active",
                "cooldown":"12.0 / 11.0 / 10.0 / 9.0 / 8.0 / 7.0",
                "manacost":"90 / 100 / 110 / 120 / 130 / 140",
@@ -1735,7 +1811,7 @@
             },
             {
                "skill_name":"Thunderstruck",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/eudora/Thunderstruck.png",
                "type":"active",
                "cooldown":"34.0 / 30.0 / 26.0",
                "manacost":"130 / 160 / 190",
@@ -1779,7 +1855,7 @@
          "skills":[
             {
                "skill_name":"Air Superiority",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/fanny/Air_Superiority.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1787,7 +1863,7 @@
             },
             {
                "skill_name":"Tornado Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/fanny/Tornado_Strike.png",
                "type":"active",
                "cooldown":"2.5 / 2.3 / 2.1 / 1.9 / 1.7 / 1.5",
                "manacost":"25",
@@ -1795,7 +1871,7 @@
             },
             {
                "skill_name":"Steel Cable",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/fanny/Steel_Cable.png",
                "type":"active",
                "cooldown":"0",
                "manacost":"20 / 19 / 18 / 16 / 15 / 14",
@@ -1803,7 +1879,7 @@
             },
             {
                "skill_name":"Cut Throat",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/fanny/Cut_Throat.png",
                "type":"active",
                "cooldown":"30.0 / 25.0 / 20.0",
                "manacost":"40",
@@ -1847,7 +1923,7 @@
          "skills":[
             {
                "skill_name":"Vicious Retrieval",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/faramis/Vicious_Retrieval.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1855,7 +1931,7 @@
             },
             {
                "skill_name":"Shadow Stampede",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/faramis/Shadow_Stampede.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"70 / 80 / 90 / 100 / 110 / 120",
@@ -1863,7 +1939,7 @@
             },
             {
                "skill_name":"Ghost Bursters",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/faramis/Ghost_Bursters.png",
                "type":"active",
                "cooldown":"5.5 / 5.1 / 4.7 / 4.3 / 3.9 / 3.5",
                "manacost":"75 / 85 / 95 / 105 / 115 / 125",
@@ -1871,7 +1947,7 @@
             },
             {
                "skill_name":"Cult Altar",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/faramis/Cult_Altar.png",
                "type":"active",
                "cooldown":"50.0 / 45.0 / 40.0",
                "manacost":"150 / 250 / 350",
@@ -1915,7 +1991,7 @@
          "skills":[
             {
                "skill_name":"Wasteland Force",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/franco/Wasteland_Force.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1923,7 +1999,7 @@
             },
             {
                "skill_name":"Iron Hook",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/franco/Iron_Hook.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"150",
@@ -1931,7 +2007,7 @@
             },
             {
                "skill_name":"Fury Shock",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/franco/Fury_Shock.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"40",
@@ -1939,7 +2015,7 @@
             },
             {
                "skill_name":"Bloody Hunt",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/franco/Bloody_Hunt.png",
                "type":"active",
                "cooldown":"30.5",
                "manacost":"110",
@@ -1983,7 +2059,7 @@
          "skills":[
             {
                "skill_name":"Power Of Einherjar",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/freya/Power_of_Einherjar.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -1991,7 +2067,7 @@
             },
             {
                "skill_name":"Leap Of Faith",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/freya/Leap_of_Faith.png",
                "type":"active",
                "cooldown":"12.0 / 11.4 / 10.8 / 10.2 / 9.6 / 9.0",
                "manacost":"null",
@@ -1999,7 +2075,7 @@
             },
             {
                "skill_name":"Spirit Ward",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/freya/Spirit_Ward.png",
                "type":"active",
                "cooldown":"11.0 / 10.4 / 9.8 / 9.2 / 8.6 / 8.0",
                "manacost":"null",
@@ -2007,7 +2083,7 @@
             },
             {
                "skill_name":"Valkyrie Descent",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/freya/Valkyrie_Descent.png",
                "type":"active",
                "cooldown":"46.0 / 43.0 / 40.0",
                "manacost":"null",
@@ -2051,7 +2127,7 @@
          "skills":[
             {
                "skill_name":"Steel Bones",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gatotkaca/Steel_Bones.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2059,7 +2135,7 @@
             },
             {
                "skill_name":"Blast Iron Fist",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gatotkaca/Blast_Iron_Fist.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"70",
@@ -2067,7 +2143,7 @@
             },
             {
                "skill_name":"Unbreakable",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gatotkaca/Unbreakable.png",
                "type":"active",
                "cooldown":"13",
                "manacost":"100",
@@ -2075,7 +2151,7 @@
             },
             {
                "skill_name":"Avatar Of Guardian",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gatotkaca/Avatar_of_Guardian.png",
                "type":"active",
                "cooldown":"60 seconds",
                "manacost":"120",
@@ -2119,7 +2195,7 @@
          "skills":[
             {
                "skill_name":"Mystic Favor",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gord/Mystic_Favor.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2127,7 +2203,7 @@
             },
             {
                "skill_name":"Mystic Projectile",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gord/Mystic_Projectile.png",
                "type":"active",
                "cooldown":"7.0 / 6.7 / 6.4 / 6.1 / 5.8 / 5.5",
                "manacost":"90 / 100 / 110 / 120 / 130 / 140",
@@ -2135,7 +2211,7 @@
             },
             {
                "skill_name":"Mystic Injunction",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gord/Mystic_Injunction.png",
                "type":"active",
                "cooldown":"7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
                "manacost":"90 / 95 / 100 / 105 / 110 / 115",
@@ -2143,7 +2219,7 @@
             },
             {
                "skill_name":"Mystic Gush",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gord/Mystic_Gush.png",
                "type":"active",
                "cooldown":"34.0 / 31.0 / 28.0",
                "manacost":"150",
@@ -2187,7 +2263,7 @@
          "skills":[
             {
                "skill_name":"Caprice",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/granger/Caprice.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2195,7 +2271,7 @@
             },
             {
                "skill_name":"Rhapsody",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/granger/Rhapsody.png",
                "type":"active",
                "cooldown":"null",
                "manacost":"null",
@@ -2203,7 +2279,7 @@
             },
             {
                "skill_name":"Rondo",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/granger/Rondo.png",
                "type":"active",
                "cooldown":"7.6 / 7.2 / 6.8 / 6.4 / 6.0",
                "manacost":"null",
@@ -2211,7 +2287,7 @@
             },
             {
                "skill_name":"Death Sonata",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/granger/Death_Sonata.png",
                "type":"active",
                "cooldown":"null",
                "manacost":"null",
@@ -2255,7 +2331,7 @@
          "skills":[
             {
                "skill_name":"Ancestral Gift",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/grock/Ancestral_Gift.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2263,7 +2339,7 @@
             },
             {
                "skill_name":"Power Of Nature",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/grock/Power_of_Nature.png",
                "type":"active",
                "cooldown":"6",
                "manacost":"90",
@@ -2271,7 +2347,7 @@
             },
             {
                "skill_name":"Guardian's Barrier",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/grock/Guardian's_Barrier.png",
                "type":"active",
                "cooldown":"14",
                "manacost":"80",
@@ -2279,7 +2355,7 @@
             },
             {
                "skill_name":"Wild Charge",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/grock/Wild_Charge.png",
                "type":"active",
                "cooldown":"35",
                "manacost":"100",
@@ -2323,7 +2399,7 @@
          "skills":[
             {
                "skill_name":"Super Magic",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/guinevere/Super_Magic.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2331,7 +2407,7 @@
             },
             {
                "skill_name":"Energy Wave",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/guinevere/Energy_Wave.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"null",
@@ -2339,7 +2415,7 @@
             },
             {
                "skill_name":"Magic Thump",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/guinevere/Magic_Thump.png",
                "type":"active",
                "cooldown":"17.0 / 16.4 / 15.8 / 15.2 / 14.6 / 14.0",
                "manacost":"null",
@@ -2347,7 +2423,7 @@
             },
             {
                "skill_name":"Spatial Migration",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/guinevere/Spatial_Migration.png",
                "type":"active",
                "cooldown":"0",
                "manacost":"null",
@@ -2355,7 +2431,7 @@
             },
             {
                "skill_name":"Violet Requiem",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/guinevere/Spatial_Migration.png",
                "type":"active",
                "cooldown":"45.0 / 40.0 / 35.0",
                "manacost":"null",
@@ -2399,7 +2475,7 @@
          "skills":[
             {
                "skill_name":"Dagger Specialist",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gusion/Dagger_Specialist.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2407,7 +2483,7 @@
             },
             {
                "skill_name":"Sword Spike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gusion/Sword_Spike.png",
                "type":"active",
                "cooldown":"9.0 / 8.4 / 7.8 / 7.2 / 6.6 / 6.0",
                "manacost":"70 / 75 / 80 / 85 / 90 / 95",
@@ -2415,7 +2491,7 @@
             },
             {
                "skill_name":"Shadowblade Slaughter",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gusion/Shadowblade_Slaughter.png",
                "type":"active",
                "cooldown":"11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0",
                "manacost":"65 / 75 / 85 / 95 / 105 / 115",
@@ -2423,7 +2499,7 @@
             },
             {
                "skill_name":"Incandescence",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/gusion/Incandescence.png",
                "type":"active",
                "cooldown":"28.0 / 24.0 / 20.0",
                "manacost":"100 / 50 / 0",
@@ -2467,7 +2543,7 @@
          "skills":[
             {
                "skill_name":"Ninjutsu Equinox",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanabi/Ninjutsu_Equinox.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2475,7 +2551,7 @@
             },
             {
                "skill_name":"Ninjutsu Petal Barrage",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanabi/Ninjutsu_Petal_Barrage.png",
                "type":"active",
                "cooldown":"0",
                "manacost":"20",
@@ -2483,7 +2559,7 @@
             },
             {
                "skill_name":"Ninjutsu Soul Scroll",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanabi/Ninjutsu_Soul_Scroll.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"35",
@@ -2491,7 +2567,7 @@
             },
             {
                "skill_name":"Forbidden Jutsu Higanbana",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanabi/Forbidden_Jutsu_Higanbana.png",
                "type":"active",
                "cooldown":"40",
                "manacost":"120",
@@ -2535,7 +2611,7 @@
          "skills":[
             {
                "skill_name":"Ame No Habakiri",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanzo/Ame_no_Habakiri.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2543,7 +2619,7 @@
             },
             {
                "skill_name":"Ninjutsu Demon Feast",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanzo/Ninjutsu_Demon_Feast.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"null",
@@ -2551,7 +2627,7 @@
             },
             {
                "skill_name":"Ninjutsu Soul Reap",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanzo/Ninjutsu_Soul_Reap.png",
                "type":"active",
                "cooldown":"7.5",
                "manacost":"null",
@@ -2559,7 +2635,7 @@
             },
             {
                "skill_name":"Kinjutsu Pinnacle Ninja",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hanzo/Kinjutsu_Pinnacle_Ninja.png",
                "type":"active",
                "cooldown":"21",
                "manacost":"null",
@@ -2603,7 +2679,7 @@
          "skills":[
             {
                "skill_name":"Key Insight",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harith/Key_Insight.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2611,7 +2687,7 @@
             },
             {
                "skill_name":"Synchro Fission",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harith/Synchro_Fission.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"50 / 55 / 60 / 65 / 70 / 75",
@@ -2619,7 +2695,7 @@
             },
             {
                "skill_name":"Chrono Dash",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harith/Chrono_Dash.png",
                "type":"active",
                "cooldown":"9.3",
                "manacost":"45 / 50 / 55 / 60 / 65 / 70",
@@ -2627,7 +2703,7 @@
             },
             {
                "skill_name":"Zaman Force",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harith/Zaman_Force.png",
                "type":"active",
                "cooldown":"40.0 / 35.0 / 30.0",
                "manacost":"120 / 160 / 200",
@@ -2671,7 +2747,7 @@
          "skills":[
             {
                "skill_name":"Magic Master",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harley/Magic_Master.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2679,7 +2755,7 @@
             },
             {
                "skill_name":"Poker Trick",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harley/Poker_Trick.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"90",
@@ -2687,7 +2763,7 @@
             },
             {
                "skill_name":"Space Escape",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harley/Space_Escape.png",
                "type":"active",
                "cooldown":"13",
                "manacost":"60",
@@ -2695,7 +2771,7 @@
             },
             {
                "skill_name":"Deadly Magic",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/harley/Deadly_Magic.png",
                "type":"active",
                "cooldown":"30",
                "manacost":"120",
@@ -2739,7 +2815,7 @@
          "skills":[
             {
                "skill_name":"Ninjutsu Shadow Heal",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hayabusa/Ninjutsu_Shadow_Heal.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2747,7 +2823,7 @@
             },
             {
                "skill_name":"Phantom Shuriken",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hayabusa/Phantom_Shuriken.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"30",
@@ -2755,7 +2831,7 @@
             },
             {
                "skill_name":"Quad Shadow",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hayabusa/Quad_Shadow.png",
                "type":"active",
                "cooldown":"17",
                "manacost":"25",
@@ -2763,7 +2839,7 @@
             },
             {
                "skill_name":"Ougi Shadow Kill",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hayabusa/Ougi_Shadow_Kill.png",
                "type":"active",
                "cooldown":"44",
                "manacost":"25",
@@ -2807,7 +2883,7 @@
          "skills":[
             {
                "skill_name":"Race Advantage",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/helcurt/Race_Advantage.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2815,7 +2891,7 @@
             },
             {
                "skill_name":"Shadow Transition",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/helcurt/Shadow_Transition.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"60",
@@ -2823,7 +2899,7 @@
             },
             {
                "skill_name":"Deadly Poisoned Stinger",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/helcurt/Deadly_Poisoned_Stinger.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"70",
@@ -2831,7 +2907,7 @@
             },
             {
                "skill_name":"Dark Night Falls",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/helcurt/Dark_Night_Falls.png",
                "type":"active",
                "cooldown":"40",
                "manacost":"120",
@@ -2875,7 +2951,7 @@
          "skills":[
             {
                "skill_name":"Blessing Of Wilderness",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hilda/Blessing_of_Wilderness.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2883,7 +2959,7 @@
             },
             {
                "skill_name":"Combat Ritual",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hilda/Combat_Ritual.png",
                "type":"active",
                "cooldown":"seconds",
                "manacost":"null",
@@ -2891,7 +2967,7 @@
             },
             {
                "skill_name":"Art Of Hunting",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hilda/Art_of_Hunting.png",
                "type":"active",
                "cooldown":"seconds",
                "manacost":"null",
@@ -2899,7 +2975,7 @@
             },
             {
                "skill_name":"Power Of Wildness",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hilda/Power_of_Wildness.png",
                "type":"active",
                "cooldown":"seconds",
                "manacost":"null",
@@ -2943,7 +3019,7 @@
          "skills":[
             {
                "skill_name":"Thickened Blood",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hylos/Thickened_Blood.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -2951,7 +3027,7 @@
             },
             {
                "skill_name":"Law And Order",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hylos/Law_and_Order.png",
                "type":"active",
                "cooldown":"12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
                "manacost":"80",
@@ -2959,7 +3035,7 @@
             },
             {
                "skill_name":"Ring Of Punishment",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hylos/Ring_of_Punishment.png",
                "type":"active",
                "cooldown":"1",
                "manacost":"30 / 40 / 60 / 90 / 120 / 150",
@@ -2967,7 +3043,7 @@
             },
             {
                "skill_name":"Glorious Pathway",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/hylos/Glorious_Pathway.png",
                "type":"active",
                "cooldown":"50",
                "manacost":"150",
@@ -3011,7 +3087,7 @@
          "skills":[
             {
                "skill_name":"Jungle Heart",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/irithel/Jungle_Heart.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3019,7 +3095,7 @@
             },
             {
                "skill_name":"Strafe",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/irithel/Strafe.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"90 / 100 / 110 / 120 / 130 / 140",
@@ -3027,7 +3103,7 @@
             },
             {
                "skill_name":"Force Of The Queen",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/irithel/Force_of_the_Queen.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"60 / 70 / 80 / 90 / 100 / 110",
@@ -3035,7 +3111,7 @@
             },
             {
                "skill_name":"Heavy Crossbow",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/irithel/Heavy_Crossbow.png",
                "type":"active",
                "cooldown":"42",
                "manacost":"120 / 160 / 200",
@@ -3079,7 +3155,7 @@
          "skills":[
             {
                "skill_name":"Mecha Suppression",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/jawhead/Mecha_Suppression.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3087,7 +3163,7 @@
             },
             {
                "skill_name":"Smart Missiles",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/jawhead/Smart_Missiles.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"60",
@@ -3095,7 +3171,7 @@
             },
             {
                "skill_name":"Ejector",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/jawhead/Ejector.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"80",
@@ -3103,7 +3179,7 @@
             },
             {
                "skill_name":"Unstoppable Force",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/jawhead/Unstoppable_Force.png",
                "type":"active",
                "cooldown":"55",
                "manacost":"120",
@@ -3147,7 +3223,7 @@
          "skills":[
             {
                "skill_name":"Electro Airbag",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/johnson/Electro_Airbag.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3155,7 +3231,7 @@
             },
             {
                "skill_name":"Deadly Pincers",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/johnson/Deadly_Pincers.png",
                "type":"active",
                "cooldown":"9.0 / 8.4 / 7.8 / 7.2 / 6.6 / 6.0",
                "manacost":"null",
@@ -3163,7 +3239,7 @@
             },
             {
                "skill_name":"Electromag Rays",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/johnson/Electromag_Rays.png",
                "type":"active",
                "cooldown":"11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5",
                "manacost":"null",
@@ -3171,7 +3247,7 @@
             },
             {
                "skill_name":"Rapid Touchdown",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/johnson/Rapid_Touchdown.png",
                "type":"active",
                "cooldown":"53.0 / 48.0 / 43.0",
                "manacost":"null",
@@ -3215,7 +3291,7 @@
          "skills":[
             {
                "skill_name":"Thalassophobia",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kadita/Thalassophobia.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3223,7 +3299,7 @@
             },
             {
                "skill_name":"Ocean Oddity",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kadita/Ocean_Oddity.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"80 / 90 / 100 / 110 / 120 / 130",
@@ -3231,7 +3307,7 @@
             },
             {
                "skill_name":"Breath Of The Ocean",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kadita/Breath_of_the_Ocean.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"90 / 100 / 110 / 110 / 120 / 130 / 140",
@@ -3239,7 +3315,7 @@
             },
             {
                "skill_name":"Rough Waves",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kadita/Rough_Waves.png",
                "type":"active",
                "cooldown":"40.0 / 36.0 / 32.0",
                "manacost":"200 / 240 / 280",
@@ -3283,7 +3359,7 @@
          "skills":[
             {
                "skill_name":"Yin Yang Gathering",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kagura/Yin_Yang_Gathering.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3291,7 +3367,7 @@
             },
             {
                "skill_name":"Seimei Umbrella Open",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kagura/Seimei_Umbrella_Open.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"60 / 70 / 80 / 90 / 100 / 110",
@@ -3299,7 +3375,7 @@
             },
             {
                "skill_name":"Rashoo Umbrella Flee",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kagura/Rashoo_Umbrella_Flee.png",
                "type":"active",
                "cooldown":"12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
                "manacost":"80 / 85 / 90 / 95 / 100 / 105",
@@ -3307,7 +3383,7 @@
             },
             {
                "skill_name":"Yin Yang Overturn",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kagura/Yin_Yang_Overturn.png",
                "type":"active",
                "cooldown":"43.0 / 38.0 / 33.0",
                "manacost":"85 / 100 / 115",
@@ -3351,7 +3427,7 @@
          "skills":[
             {
                "skill_name":"Wrath Sanction",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kaja/Wrath_Sanction.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3359,7 +3435,7 @@
             },
             {
                "skill_name":"Ring Of Order",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kaja/Ring_of_Order.png",
                "type":"active",
                "cooldown":"8.0 / 7.7 / 7.4 / 7.1 / 6.8 / 6.5",
                "manacost":"60 / 70 / 80 / 90 / 100 / 110",
@@ -3367,7 +3443,7 @@
             },
             {
                "skill_name":"Lightning Bomb",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kaja/Lightning_Bomb.png",
                "type":"active",
                "cooldown":"13.0 / 12.6 / 12.2 / 11.8 / 11.4 / 11.0",
                "manacost":"65 / 70 / 75 / 80 / 85 / 90",
@@ -3375,7 +3451,7 @@
             },
             {
                "skill_name":"Divine Judgment",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kaja/Divine_Judgment.png",
                "type":"active",
                "cooldown":"60",
                "manacost":"150",
@@ -3419,7 +3495,7 @@
          "skills":[
             {
                "skill_name":"Combo Hit",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karina/Combo_Hit.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3427,7 +3503,7 @@
             },
             {
                "skill_name":"Elusiveness",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karina/Elusiveness.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"60",
@@ -3435,7 +3511,7 @@
             },
             {
                "skill_name":"Dance Of Death",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karina/Dance_of_Death.png",
                "type":"active",
                "cooldown":"4.5",
                "manacost":"60",
@@ -3443,7 +3519,7 @@
             },
             {
                "skill_name":"Shadow Rush",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karina/Shadow_Rush.png",
                "type":"active",
                "cooldown":"36",
                "manacost":"100",
@@ -3487,7 +3563,7 @@
          "skills":[
             {
                "skill_name":"Light Wheel Mark",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karrie/Light_Wheel_Mark.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3495,7 +3571,7 @@
             },
             {
                "skill_name":"Spinning Light Wheel",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karrie/Spinning_Light_Wheel.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"80",
@@ -3503,7 +3579,7 @@
             },
             {
                "skill_name":"Phantom Step",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karrie/Phantom_Step.png",
                "type":"active",
                "cooldown":"6",
                "manacost":"50",
@@ -3511,7 +3587,7 @@
             },
             {
                "skill_name":"Dual Light Wheel",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/karrie/Dual_Light_Wheel.png",
                "type":"active",
                "cooldown":"30",
                "manacost":"140",
@@ -3555,7 +3631,7 @@
          "skills":[
             {
                "skill_name":"Spell Curse",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/khufra/Spell_Curse.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3563,7 +3639,7 @@
             },
             {
                "skill_name":"Tyrant's Revenge",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/khufra/Tyrant's_Revenge.png",
                "type":"active",
                "cooldown":"20",
                "manacost":"100",
@@ -3571,7 +3647,7 @@
             },
             {
                "skill_name":"Bouncing Ball",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/khufra/Bouncing_Ball.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"80",
@@ -3579,7 +3655,7 @@
             },
             {
                "skill_name":"Tyrant's Rage",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/khufra/Tyrant's_Rage.png",
                "type":"active",
                "cooldown":"50",
                "manacost":"175",
@@ -3623,7 +3699,7 @@
          "skills":[
             {
                "skill_name":"Chemist's Instinct",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kimmy/Chemist's_Instinct.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3631,7 +3707,7 @@
             },
             {
                "skill_name":"Energy Transformation",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kimmy/Energy_Transformation.png",
                "type":"active",
                "cooldown":"0",
                "manacost":"null",
@@ -3639,7 +3715,7 @@
             },
             {
                "skill_name":"Chemical Refinement",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kimmy/Chemical_Refinement.png",
                "type":"active",
                "cooldown":"14.0 / 13.4 / 12.8 / 12.2 / 11.6 / 11.0",
                "manacost":"null",
@@ -3647,7 +3723,7 @@
             },
             {
                "skill_name":"Maximum Charge",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/kimmy/Maximum_Charge.png",
                "type":"active",
                "cooldown":"20.0 / 18.0 / 16.0",
                "manacost":"null",
@@ -3691,7 +3767,7 @@
          "skills":[
             {
                "skill_name":"Soul Cutter",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lancelot/Soul_Cutter.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3699,7 +3775,7 @@
             },
             {
                "skill_name":"Puncture",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lancelot/Puncture.png",
                "type":"active",
                "cooldown":"14.0 / 13.6 / 13.2 / 12.8 / 12.4 / 12.0",
                "manacost":"50 / 55 / 60 / 65 / 70 / 75",
@@ -3707,7 +3783,7 @@
             },
             {
                "skill_name":"Phantom Execution",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lancelot/Phantom_Execution.png",
                "type":"active",
                "cooldown":"27.0 / 24.0 / 21.0",
                "manacost":"100 / 125 / 150",
@@ -3715,7 +3791,7 @@
             },
             {
                "skill_name":"Thorned Rose",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lancelot/Thorned_Rose.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"70 / 75 / 80 / 85 / 90 / 95",
@@ -3759,7 +3835,7 @@
          "skills":[
             {
                "skill_name":"Hero's Faith",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lapu-lapu/Hero's_Faith.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3767,7 +3843,7 @@
             },
             {
                "skill_name":"Justice Blade",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lapu-lapu/Justice_Blade.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"null",
@@ -3775,7 +3851,7 @@
             },
             {
                "skill_name":"Brave Stance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lapu-lapu/Brave_Stance.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"null",
@@ -3783,7 +3859,7 @@
             },
             {
                "skill_name":"Chieftain's Rage",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lapu-lapu/Chieftain's_Rage.png",
                "type":"active",
                "cooldown":"60",
                "manacost":"null",
@@ -3827,7 +3903,7 @@
          "skills":[
             {
                "skill_name":"Malefic Gun",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/layla/Malefic_Gun.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3835,7 +3911,7 @@
             },
             {
                "skill_name":"Malefic Bomb",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/layla/Malefic_Bomb.png",
                "type":"active",
                "cooldown":"5.5 / 5.1 / 4.7 / 4.3 / 3.9 / 3.5",
                "manacost":"40 / 45 / 50 / 55 / 60 / 65",
@@ -3843,7 +3919,7 @@
             },
             {
                "skill_name":"Void Projectile",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/layla/Void_Projectile.png",
                "type":"active",
                "cooldown":"7.5 / 7.3 / 7.1 / 6.9 / 6.7 / 6.5",
                "manacost":"65 / 70 / 75 / 80 / 85 / 90",
@@ -3851,7 +3927,7 @@
             },
             {
                "skill_name":"Destruction Rush",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/layla/Destruction_Rush.png",
                "type":"active",
                "cooldown":"37.0 / 32.0 / 27.0",
                "manacost":"130 / 150 / 170",
@@ -3895,7 +3971,7 @@
          "skills":[
             {
                "skill_name":"The Oath Keeper",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/leomord/The_Oath_Keeper.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3903,7 +3979,7 @@
             },
             {
                "skill_name":"Momentum",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/leomord/Momentum.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"null",
@@ -3911,7 +3987,7 @@
             },
             {
                "skill_name":"Decimation Assault",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/leomord/Decimation_Assault.png",
                "type":"active",
                "cooldown":"14",
                "manacost":"null",
@@ -3919,7 +3995,7 @@
             },
             {
                "skill_name":"Phantom Steed",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/leomord/Phantom_Steed.png",
                "type":"active",
                "cooldown":"50",
                "manacost":"null",
@@ -3927,7 +4003,7 @@
             },
             {
                "skill_name":"Phantom Charge",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/leomord/Phantom_Charge.png",
                "type":"active",
                "cooldown":"8.5",
                "manacost":"null",
@@ -3935,7 +4011,7 @@
             },
             {
                "skill_name":"Phantom Stomp",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/leomord/Phantom_Stomp.png",
                "type":"active",
                "cooldown":"5",
                "manacost":"null",
@@ -3979,7 +4055,7 @@
          "skills":[
             {
                "skill_name":"Lethal Shoot",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lesley/Lethal_Shoot.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -3987,7 +4063,7 @@
             },
             {
                "skill_name":"Master Of Camouflage",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lesley/Master_of_Camouflage.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"30",
@@ -3995,7 +4071,7 @@
             },
             {
                "skill_name":"Tactical Grenade",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lesley/Tactical_Grenade.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"40",
@@ -4003,7 +4079,7 @@
             },
             {
                "skill_name":"Ultimate Snipe",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lesley/Ultimate_Snipe.png",
                "type":"active",
                "cooldown":"40",
                "manacost":"null",
@@ -4047,7 +4123,7 @@
          "skills":[
             {
                "skill_name":"Cloud Walker",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ling/Cloud_Walker.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4055,7 +4131,7 @@
             },
             {
                "skill_name":"Finch Poise",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ling/Finch_Poise.png",
                "type":"active",
                "cooldown":"7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
                "manacost":"30 / 28 / 26 / 24 / 22 / 20",
@@ -4063,7 +4139,7 @@
             },
             {
                "skill_name":"Defiant Sword",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ling/Defiant_Sword.png",
                "type":"active",
                "cooldown":"2.5",
                "manacost":"40 / 38 / 36 / 34 / 32 / 30",
@@ -4071,7 +4147,7 @@
             },
             {
                "skill_name":"Tempest Of Blades",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ling/Tempest_of_Blades.png",
                "type":"active",
                "cooldown":"45.0 / 40.0 / 35.0",
                "manacost":"null",
@@ -4115,7 +4191,7 @@
          "skills":[
             {
                "skill_name":"Noumenon Energy Core",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lolita/Noumenon_Energy_Core.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4123,7 +4199,7 @@
             },
             {
                "skill_name":"Charge!",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lolita/Charge!.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"70 / 80 / 90 / 100 / 110 / 120",
@@ -4131,7 +4207,7 @@
             },
             {
                "skill_name":"Guardian's Bulwark",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lolita/Guardian's_Bulwark.png",
                "type":"active",
                "cooldown":"17.5 / 17.0 / 16.5 / 16.0 / 15.5 / 15.0",
                "manacost":"90 / 95 / 100 / 105 / 110 / 115",
@@ -4139,7 +4215,7 @@
             },
             {
                "skill_name":"Noumenon Blast",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lolita/Noumenon_Blast.png",
                "type":"active",
                "cooldown":"48.0 / 43.0 / 38.0",
                "manacost":"120 / 140 / 160",
@@ -4183,7 +4259,7 @@
          "skills":[
             {
                "skill_name":"Dreamland Twist",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lunox/Dreamland_Twist.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4191,7 +4267,7 @@
             },
             {
                "skill_name":"Starlight Pulse",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lunox/Starlight_Pulse.png",
                "type":"active",
                "cooldown":"2",
                "manacost":"60 / 65 / 70 / 75 / 80 / 85",
@@ -4199,7 +4275,7 @@
             },
             {
                "skill_name":"Chaos Assault",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lunox/Chaos_Assault.png",
                "type":"active",
                "cooldown":"2",
                "manacost":"50 / 58 / 66 / 74 / 82 / 90",
@@ -4207,7 +4283,7 @@
             },
             {
                "skill_name":"Cosmic Fission",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lunox/Cosmic_Fission.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"70 / 80 / 90 / 100 / 110 / 120",
@@ -4215,7 +4291,7 @@
             },
             {
                "skill_name":"Power Of Order Brilliance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lunox/Power_of_Order_Brilliance.png",
                "type":"active",
                "cooldown":"28",
                "manacost":"120",
@@ -4223,7 +4299,7 @@
             },
             {
                "skill_name":"Power Of Chaos Darkening",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lunox/Power_of_Chaos_Darkening.png",
                "type":"active",
                "cooldown":"18",
                "manacost":"120",
@@ -4267,7 +4343,7 @@
          "skills":[
             {
                "skill_name":"Angry Gloom",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lylia/Angry_Gloom.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4275,7 +4351,7 @@
             },
             {
                "skill_name":"Magic Shockwave",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lylia/Shadow_Energy.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"50 / 55 / 60 / 65 / 70 / 75",
@@ -4283,7 +4359,7 @@
             },
             {
                "skill_name":"Shadow Energy",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lylia/Shadow_Energy.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"40 / 50 / 60 / 70 / 80 / 90",
@@ -4291,7 +4367,7 @@
             },
             {
                "skill_name":"Black Shoes",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/lylia/Black_Shoes.png",
                "type":"active",
                "cooldown":"50.0 / 45.0 / 40.0",
                "manacost":"120 / 60 / 0",
@@ -4335,7 +4411,7 @@
          "skills":[
             {
                "skill_name":"Ashura's Wrath",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/martis/Ashura's_Wrath.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4343,7 +4419,7 @@
             },
             {
                "skill_name":"Ashura Aura",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/martis/Ashura_Aura.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"null",
@@ -4351,7 +4427,7 @@
             },
             {
                "skill_name":"Mortal Coil",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/martis/Mortal_Coil.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"null",
@@ -4359,7 +4435,7 @@
             },
             {
                "skill_name":"Decimate",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/martis/Decimate.png",
                "type":"active",
                "cooldown":"36",
                "manacost":"null",
@@ -4403,7 +4479,7 @@
          "skills":[
             {
                "skill_name":"Ancient Strength",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/masha/Ancient_Strength.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4411,7 +4487,7 @@
             },
             {
                "skill_name":"Wild Power",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/masha/Wild_Power.png",
                "type":"active",
                "cooldown":"1",
                "manacost":"null",
@@ -4419,7 +4495,7 @@
             },
             {
                "skill_name":"Howl Shock",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/masha/Howl_Shock.png",
                "type":"active",
                "cooldown":"12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0",
                "manacost":"null",
@@ -4427,7 +4503,7 @@
             },
             {
                "skill_name":"Thunderclap",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/masha/Thunderclap.png",
                "type":"active",
                "cooldown":"30.0 / 27.0 / 24.0",
                "manacost":"null",
@@ -4435,7 +4511,7 @@
             },
             {
                "skill_name":"Life Recovery",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/masha/Life_Recovery.png",
                "type":"active",
                "cooldown":"0",
                "manacost":"null",
@@ -4479,7 +4555,7 @@
          "skills":[
             {
                "skill_name":"Rage Mode",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minotaur/Rage_Mode.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4487,7 +4563,7 @@
             },
             {
                "skill_name":"Despair Stomp",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minotaur/Despair_Stomp.png",
                "type":"active",
                "cooldown":"8.0 / 7.5 / 7.0 / 6.5 / 6.0 / 5.5",
                "manacost":"null",
@@ -4495,7 +4571,7 @@
             },
             {
                "skill_name":"Motivation Roar",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minotaur/Motivation_Roar.png",
                "type":"active",
                "cooldown":"12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
                "manacost":"null",
@@ -4503,7 +4579,7 @@
             },
             {
                "skill_name":"Minoan Fury",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minotaur/Minoan_Fury.png",
                "type":"active",
                "cooldown":"20",
                "manacost":"null",
@@ -4547,7 +4623,7 @@
          "skills":[
             {
                "skill_name":"All United",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minsitthar/All_United.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4555,7 +4631,7 @@
             },
             {
                "skill_name":"Spear Of Glory           ",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minsitthar/Spear_of_Glory.png",
                "type":"active",
                "cooldown":"13",
                "manacost":"70",
@@ -4563,7 +4639,7 @@
             },
             {
                "skill_name":"Shield Assault",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minsitthar/Shield_Assault.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"60",
@@ -4571,7 +4647,7 @@
             },
             {
                "skill_name":"King's Calling",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/minsitthar/King's_Calling.png",
                "type":"active",
                "cooldown":"40",
                "manacost":"150",
@@ -4615,7 +4691,7 @@
          "skills":[
             {
                "skill_name":"Turbo",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/miya/Turbo.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4623,7 +4699,7 @@
             },
             {
                "skill_name":"Fission Shot",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/miya/Fission_Shot.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"80 / 90 / 100 / 110 / 120 / 130",
@@ -4631,7 +4707,7 @@
             },
             {
                "skill_name":"Rain Of Arrows",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/miya/Rain_of_Arrows.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"80 / 95 / 110 / 125 / 140 / 155",
@@ -4639,7 +4715,7 @@
             },
             {
                "skill_name":"Turbo Stealth",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/miya/Turbo_Stealth.png",
                "type":"active",
                "cooldown":"38.0 / 34.0 / 30.0",
                "manacost":"120 / 145 / 170",
@@ -4683,7 +4759,7 @@
          "skills":[
             {
                "skill_name":"Spear Of Quiescence",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/moskov/Spear_of_Quiescence.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4691,7 +4767,7 @@
             },
             {
                "skill_name":"Abyss Walker",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/moskov/Abyss_Walker.png",
                "type":"active",
                "cooldown":"7.5",
                "manacost":"75",
@@ -4699,7 +4775,7 @@
             },
             {
                "skill_name":"Spear Of Misery",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/moskov/Spear_of_Misery.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"90",
@@ -4707,7 +4783,7 @@
             },
             {
                "skill_name":"Spear Of Destruction",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/moskov/Spear_of_Destruction.png",
                "type":"active",
                "cooldown":"45",
                "manacost":"130",
@@ -4751,7 +4827,7 @@
          "skills":[
             {
                "skill_name":"Molina's Gift",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/nana/Molina's_Gift.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4759,7 +4835,7 @@
             },
             {
                "skill_name":"Magic Boomerang",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/nana/Magic_Boomerang.png",
                "type":"active",
                "cooldown":"5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0",
                "manacost":"65 / 75 / 85 / 95 / 105 / 115",
@@ -4767,7 +4843,7 @@
             },
             {
                "skill_name":"Molina Smooch",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/nana/Molina_Smooch.png",
                "type":"active",
                "cooldown":"14.5 / 14.0 / 13.5 / 13.0 / 12.5 / 12.0",
                "manacost":"120",
@@ -4775,7 +4851,7 @@
             },
             {
                "skill_name":"Molina Blitz",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/nana/Molina_Blitz.png",
                "type":"active",
                "cooldown":"36.0 / 32.0 / 28.0",
                "manacost":"135 / 150 / 165",
@@ -4819,7 +4895,7 @@
          "skills":[
             {
                "skill_name":"Assassin Instinct",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/natalia/Assassin_Instinct.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4827,7 +4903,7 @@
             },
             {
                "skill_name":"Claw Dash",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/natalia/Claw_Dash.png",
                "type":"active",
                "cooldown":"10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
                "manacost":"50 / 55 / 60 / 65 / 70 / 75",
@@ -4835,7 +4911,7 @@
             },
             {
                "skill_name":"Smoke Bomb",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/natalia/Smoke_Bomb.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"80 / 85 / 90 / 95 / 100 / 105",
@@ -4843,7 +4919,7 @@
             },
             {
                "skill_name":"The Hunt",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/natalia/The_Hunt.png",
                "type":"active",
                "cooldown":"30.0 / 27.0 / 24.0",
                "manacost":"90 / 110 / 130",
@@ -4887,7 +4963,7 @@
          "skills":[
             {
                "skill_name":"Lakeshore Ambience",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/odette/Lakeshore_Ambience.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4895,7 +4971,7 @@
             },
             {
                "skill_name":"Avian Authority",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/odette/Avian_Authority.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"90 / 100 / 110 / 120 / 130 / 140",
@@ -4903,7 +4979,7 @@
             },
             {
                "skill_name":"Blue Nova",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/odette/Blue_Nova.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"90",
@@ -4911,7 +4987,7 @@
             },
             {
                "skill_name":"Swan Song",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/odette/Swan_Song.png",
                "type":"active",
                "cooldown":"50.0 / 45.0 / 40.0",
                "manacost":"200 / 240 / 280",
@@ -4955,7 +5031,7 @@
          "skills":[
             {
                "skill_name":"Spiritual Unity",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/pharsa/Spiritual_Unity.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4963,7 +5039,7 @@
             },
             {
                "skill_name":"Wings by Wings",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/pharsa/Wings_by_Wings.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -4971,7 +5047,7 @@
             },
             {
                "skill_name":"Energy Impact",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/pharsa/Energy_Impact.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"90",
@@ -4979,7 +5055,7 @@
             },
             {
                "skill_name":"Feathered Air Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/pharsa/Feathered_Air_Strike.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"100",
@@ -5015,6 +5091,82 @@
          ]
       },
       {
+         "hero_name":"Popol and Kupa",
+         "id":"h094",
+         "hero_icon":"http://mlbb.realityblender.com/heroes/popol-and-kupa.png",
+         "release_year":"2020",
+         "class":"Marksman",
+         "skills":[
+            {
+               "skill_name":"Iceland Companions",
+               "skill_icon":"URL",
+               "type":"passive",
+               "cooldown":"null",
+               "manacost":"null",
+               "description":"Popol always fights side by side with his best partner, Kupa. Popol will take care of Kupa if it has not taken any damage in 5 seconds, restoring 10% of its Max HP every second. When Kupa is down, Popol can (pray) for 3 seconds to summon it back to the battlefield. Cooldown 45 seconds. After 4 consecutive attacks by Kupa on an enemy, the next basic attack of Popol will deal (+80% Total Physical ATK) extra Physical Damage; Kupa receives 100% of Popol's Max HP and 100% of other attributes, as well as his equipment effects (except those of the active, jungling and roaming gears)."
+            },
+            {
+               "skill_name":"Bite 'Em, Kupa!",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"6.5s",
+               "manacost":"50 / 60 / 70 80",
+               "description":"Popol throws a spear at the target for 40 / 70 / 100 / 130(+100% Total Physical ATK) Physical Damage and orders Kupa to bite them, dealing 240 / 270 / 300 / 330 (+60% Total Physical ATK) (Physical Damage) and following up with attacks for 3 seconds."
+            },
+            {
+               "skill_name":"Kupa, Help!",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"6.5s",
+               "manacost":"80 / 90 / 100 / 110",
+               "description":"Popol summons Kupa to protect him, gaining a Shield equal to 240 / 270 / 300 / 330(+120% Extra Physical Attack) HP, dealing 240 / 270 / 300 / 330(+50% Total Physical Attack) Physical Damage to the nearby enemies and slowing them by 60% for 0.5 second. Kupa will assist Popol in attacking nearby enemies for 3 seconds. Alpha Wolf Form): Kupa darts back to protect its master and knocks nearby enemies Airborne for 0.6 seconds, dealing 150% increased damage."
+            },
+            {
+               "skill_name":"Popol's Suprise",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"1.5s",
+               "manacost":"60 / 50 / 40 / 30",
+               "description":"Popol sets a trap at the target location, which will detonate after a short delay when an enemy is near, immobilizing them for 1 second and creating a frost zone for 4 seconds, reducing their movement speed by 35%. Popol can store up to 3 traps at a time and gains 1 charge per 20 / 18 / 16 / 14 seconds. Up to 3 traps can be set, each lasting 60 seconds."
+            },
+            {
+               "skill_name":"We Are Angry!",
+               "skill_icon":"URL",
+               "type":"active",
+               "cooldown":"38.0s / 35.0s / 32.0s",
+               "manacost":"100 / 120 / 140",
+               "description":"Popol and Kupa both become enraged for 12 seconds: Popol and Kupa gain 30% / 40% / 50% attack speed and 15% movement speed. Kupa enters Alpha Wolf Form, restoring full HP, increasing its Max HP by 2500 / 3500 / 4500 and physical attack by 35, and enhancing its other skills."
+            }
+         ],
+         "base_attributes":[
+            {
+               "movement_speed":"240",
+               "physical_attack":"98",
+               "physical_defense":"17",
+               "physical_lifesteal":"null",
+               "physical_penetration":"null",
+               "magic_attack":"null",
+               "magic_power":"0",
+               "magic_penetration":"null",
+               "magic_lifesteal":"null",
+               "spell_vamp":"null",
+               "magic_resistance":"10",
+               "hp":"2225",
+               "mana":"445",
+               "attack_speed":"0.8",
+               "hp_regen_rate":"30",
+               "mana_regen_rate":"15",
+               "critical_strike_chance":"null",
+               "critical_damage":"null",
+               "cd_reduction":"null",
+               "bs_cd_reduction":"null",
+               "healing_effect":"null",
+               "monster_damage_reduction":"null",
+               "monster_damage":"null"
+            }
+         ]
+      },
+      {
          "hero_name":"Rafaela",
          "id":"h014",
          "hero_icon":"http://mlbb.realityblender.com/heroes/rafaela.png",
@@ -5023,7 +5175,7 @@
          "skills":[
             {
                "skill_name":"Deity Penalization",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/rafaela/Deity_Penalization.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5031,7 +5183,7 @@
             },
             {
                "skill_name":"Light Of Retribution",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/rafaela/Light_of_Retribution.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"70 / 85 / 100 / 115 / 130 / 145",
@@ -5039,7 +5191,7 @@
             },
             {
                "skill_name":"Holy Healing",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/rafaela/Holy_Healing.png",
                "type":"active",
                "cooldown":"10.5 / 10.1 / 9.7 / 9.3 / 8.9 / 8.5",
                "manacost":"100 / 110 / 120 / 130 / 140 / 150",
@@ -5047,7 +5199,7 @@
             },
             {
                "skill_name":"Holy Baptism",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/rafaela/Holy_Baptism.png",
                "type":"active",
                "cooldown":"42.0 / 38.0 / 34.0",
                "manacost":"150 / 175 / 200",
@@ -5091,7 +5243,7 @@
          "skills":[
             {
                "skill_name":"Full Moon Curse",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/roger/Full_Moon_Curse.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5099,7 +5251,7 @@
             },
             {
                "skill_name":"Open Fire",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/roger/Open_Fire.png",
                "type":"active",
                "cooldown":"7 seconds",
                "manacost":"70",
@@ -5107,7 +5259,7 @@
             },
             {
                "skill_name":"Hunter's Steps",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/roger/Hunter's_Steps.png",
                "type":"active",
                "cooldown":"10 seconds",
                "manacost":"50",
@@ -5115,7 +5267,7 @@
             },
             {
                "skill_name":"Wolf Transformation",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/roger/Wolf_Transformation.png",
                "type":"active",
                "cooldown":"6 seconds",
                "manacost":"null",
@@ -5159,7 +5311,7 @@
          "skills":[
             {
                "skill_name":"Let's Dance!",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ruby/Let's_Dance!.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5167,7 +5319,7 @@
             },
             {
                "skill_name":"Be Good!",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ruby/Be_Good!.png",
                "type":"active",
                "cooldown":"6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
                "manacost":"40",
@@ -5175,7 +5327,7 @@
             },
             {
                "skill_name":"Don't Run, Wolf King!",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ruby/Don't_run,_Wolf_King!.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"50 / 55 / 60 / 65 / 70 / 75",
@@ -5183,7 +5335,7 @@
             },
             {
                "skill_name":"I'm Offended!",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/ruby/I'm_Offended!.png",
                "type":"active",
                "cooldown":"26.0 / 23.0 / 20.0",
                "manacost":"80 /100 / 120",
@@ -5227,7 +5379,7 @@
          "skills":[
             {
                "skill_name":"Enemy's Bane",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/saber/Enemy's_Bane.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5235,7 +5387,7 @@
             },
             {
                "skill_name":"Flying Sword",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/saber/Flying_Sword.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"75 / 85 / 95 / 105 / 115 / 125",
@@ -5243,7 +5395,7 @@
             },
             {
                "skill_name":"Charge",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/saber/Charge.png",
                "type":"active",
                "cooldown":"12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
                "manacost":"70 / 80 / 90 / 100 / 110 / 120",
@@ -5251,7 +5403,7 @@
             },
             {
                "skill_name":"Triple Sweep",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/saber/Triple_Sweep.png",
                "type":"active",
                "cooldown":"34.0 / 30.0 / 26.0",
                "manacost":"100 / 120 / 140",
@@ -5295,7 +5447,7 @@
          "skills":[
             {
                "skill_name":"Symbiosis",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/selena/Symbiosis.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5303,7 +5455,7 @@
             },
             {
                "skill_name":"Abyssal Trap",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/selena/Abyssal_Trap.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"60",
@@ -5311,7 +5463,7 @@
             },
             {
                "skill_name":"Abyssal Arrow",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/selena/Abyssal_Arrow.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"70",
@@ -5319,7 +5471,7 @@
             },
             {
                "skill_name":"Primal Darkness",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/selena/Primal_Darkness.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"null",
@@ -5363,7 +5515,7 @@
          "skills":[
             {
                "skill_name":"Knightess' Resolve",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/silvanna/Knightess'_Resolve.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5371,7 +5523,7 @@
             },
             {
                "skill_name":"Cometic Lance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/silvanna/Cometic_Lance.png",
                "type":"active",
                "cooldown":"12.0/ 11.4 / 10.8 / 10.2 / 9.6 / 9.0",
                "manacost":"95 / 105 / 115 / 125 / 135 / 145",
@@ -5379,7 +5531,7 @@
             },
             {
                "skill_name":"Spiral Strangling",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/silvanna/Spiral_Strangling.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"50 / 54 / 58 / 62 / 66 / 70",
@@ -5387,7 +5539,7 @@
             },
             {
                "skill_name":"Imperial Justice",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/silvanna/Imperial_Justice.png",
                "type":"active",
                "cooldown":"40.0 / 35.0 / 30.0",
                "manacost":"150 / 180 / 210",
@@ -5431,7 +5583,7 @@
          "skills":[
             {
                "skill_name":"Simian God",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/sun/Simian_God.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5439,7 +5591,7 @@
             },
             {
                "skill_name":"Endless Variety",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/sun/Endless_Variety.png",
                "type":"active",
                "cooldown":"null",
                "manacost":"null",
@@ -5447,7 +5599,7 @@
             },
             {
                "skill_name":"Instantaneous Move",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/sun/Instantaneous_Move.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"60",
@@ -5455,7 +5607,7 @@
             },
             {
                "skill_name":"Clone Techniques",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/sun/Clone_Techniques.png",
                "type":"active",
                "cooldown":"36",
                "manacost":"0",
@@ -5499,7 +5651,7 @@
          "skills":[
             {
                "skill_name":"Body Of Smith",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/terizla/Body_of_Smith.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5507,7 +5659,7 @@
             },
             {
                "skill_name":"Revenge Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/terizla/Revenge_Strike.png",
                "type":"active",
                "cooldown":"10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
                "manacost":"75 / 80 / 85 / 90 / 95 / 100",
@@ -5515,7 +5667,7 @@
             },
             {
                "skill_name":"Execution Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/terizla/Execution_Strike.png",
                "type":"active",
                "cooldown":"7",
                "manacost":"25",
@@ -5523,7 +5675,7 @@
             },
             {
                "skill_name":"Penalty Zone",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/terizla/Penalty_Zone.png",
                "type":"active",
                "cooldown":"48.0 / 45.0 / 42.0",
                "manacost":"100 / 120 / 140",
@@ -5567,7 +5719,7 @@
          "skills":[
             {
                "skill_name":"Grand Lord Lava",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/thamuz/Grand_Lord_Lava.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5575,7 +5727,7 @@
             },
             {
                "skill_name":"Molten Scythes",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/thamuz/Molten_Scythes.png",
                "type":"active",
                "cooldown":"0",
                "manacost":"null",
@@ -5583,7 +5735,7 @@
             },
             {
                "skill_name":"Chasm Trample",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/thamuz/Chasm_Trample.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"null",
@@ -5591,7 +5743,7 @@
             },
             {
                "skill_name":"Cauterant Inferno",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/thamuz/Cauterant_Inferno.png",
                "type":"active",
                "cooldown":"45",
                "manacost":"null",
@@ -5635,7 +5787,7 @@
          "skills":[
             {
                "skill_name":"Fearless",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/tigreal/Fearless.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5643,7 +5795,7 @@
             },
             {
                "skill_name":"Attack Wave",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/tigreal/Attack_Wave.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"50",
@@ -5651,7 +5803,7 @@
             },
             {
                "skill_name":"Sacred Hammer",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/tigreal/Sacred_Hammer.png",
                "type":"active",
                "cooldown":"12.5",
                "manacost":"90",
@@ -5659,7 +5811,7 @@
             },
             {
                "skill_name":"Implosion",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/tigreal/Implosion.png",
                "type":"active",
                "cooldown":"45",
                "manacost":"120",
@@ -5703,7 +5855,7 @@
          "skills":[
             {
                "skill_name":"Radiance",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/uranus/Radiance.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5711,7 +5863,7 @@
             },
             {
                "skill_name":"Ionic Edge",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/uranus/Ionic_Edge.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"60 / 65 / 70 / 75 / 80 / 85",
@@ -5719,7 +5871,7 @@
             },
             {
                "skill_name":"Transcendent Ward",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/uranus/Transcendent_Ward.png",
                "type":"active",
                "cooldown":"12",
                "manacost":"80 / 90 / 100 / 110 / 120 / 130",
@@ -5727,7 +5879,7 @@
             },
             {
                "skill_name":"Consecration",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/uranus/Consecration.png",
                "type":"active",
                "cooldown":"36.0 / 32.0 / 28.0",
                "manacost":"100 / 125 / 150",
@@ -5771,7 +5923,7 @@
          "skills":[
             {
                "skill_name":"Windtalk",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vale/Windtalk.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5779,7 +5931,7 @@
             },
             {
                "skill_name":"Wind Blade",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vale/Wind_Blade.png",
                "type":"active",
                "cooldown":"8.5 / 8.0 / 7.5 /7.0 / 6.5 / 6.0",
                "manacost":"90 / 95 / 100 / 105 / 110 / 115",
@@ -5787,7 +5939,7 @@
             },
             {
                "skill_name":"Windblow",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vale/Windblow.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"90 / 95 / 100 / 105 / 110 / 115",
@@ -5795,7 +5947,7 @@
             },
             {
                "skill_name":"Windstorm",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vale/Windstorm.png",
                "type":"active",
                "cooldown":"40.0 / 36.0 / 32.0",
                "manacost":"150 / 200 / 250",
@@ -5839,7 +5991,7 @@
          "skills":[
             {
                "skill_name":"Ashing",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/valir/Ashing.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5847,7 +5999,7 @@
             },
             {
                "skill_name":"Burst Fireball",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/valir/Burst_Fireball.png",
                "type":"active",
                "cooldown":"1.5",
                "manacost":"50 / 58 / 66 / 74 / 82 / 90",
@@ -5855,7 +6007,7 @@
             },
             {
                "skill_name":"Searing Torrent",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/valir/Searing_Torrent.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"65 / 70 / 75 / 80 / 85 / 90",
@@ -5863,7 +6015,7 @@
             },
             {
                "skill_name":"Vengeance Flame",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/valir/Vengeance_Flame.png",
                "type":"active",
                "cooldown":"30",
                "manacost":"100 / 125 / 150",
@@ -5907,7 +6059,7 @@
          "skills":[
             {
                "skill_name":"Necromancy Spell",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vexana/Necromancy_Spell.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5915,7 +6067,7 @@
             },
             {
                "skill_name":"Charmed Specter",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vexana/Charmed_Specter.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"80",
@@ -5923,7 +6075,7 @@
             },
             {
                "skill_name":"Nether Snare",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vexana/Nether_Snare.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"110",
@@ -5931,7 +6083,7 @@
             },
             {
                "skill_name":"Cursed Oath",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/vexana/Cursed_Oath.png",
                "type":"active",
                "cooldown":"60",
                "manacost":"200",
@@ -5975,7 +6127,7 @@
          "skills":[
             {
                "skill_name":"Tiger Pace",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/wanwan/Tiger_Pace.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -5983,7 +6135,7 @@
             },
             {
                "skill_name":"Swallow's Path",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/wanwan/Swallow's_Path.png",
                "type":"active",
                "cooldown":"10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
                "manacost":"85 / 90 / 95 / 100 / 105 / 110",
@@ -5991,7 +6143,7 @@
             },
             {
                "skill_name":"Needles In Flowers",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/wanwan/Needles_in_Flowers.png",
                "type":"active",
                "cooldown":"16.0 / 15.2 / 14.4 / 13.6 / 12.8 / 12.0",
                "manacost":"100 / 95 / 90 / 85 / 80 / 75",
@@ -5999,7 +6151,7 @@
             },
             {
                "skill_name":"Crossbow Of Tang",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/wanwan/Crossbow_of_Tang.png",
                "type":"active",
                "cooldown":"40.0 / 37.0 / 34.0",
                "manacost":"130 / 150 / 170",
@@ -6043,7 +6195,7 @@
          "skills":[
             {
                "skill_name":"Firaga Armor",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/x%20borg/Firaga_Armor.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -6051,7 +6203,7 @@
             },
             {
                "skill_name":"Fire Missiles",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/x%20borg/Fire_Missiles.png",
                "type":"active",
                "cooldown":"4",
                "manacost":"null",
@@ -6059,7 +6211,7 @@
             },
             {
                "skill_name":"Fire Stake",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/x%20borg/Fire_Stake.png",
                "type":"active",
                "cooldown":"11.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5",
                "manacost":"null",
@@ -6067,7 +6219,7 @@
             },
             {
                "skill_name":"Last Insanity",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/x%20borg/Last_Insanity.png",
                "type":"active",
                "cooldown":"30.0 / 27.0 / 24.0",
                "manacost":"null",
@@ -6111,7 +6263,7 @@
          "skills":[
             {
                "skill_name":"Heavenly Vow",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/yi%20sun-shin/Heavenly_Vow.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -6119,7 +6271,7 @@
             },
             {
                "skill_name":"One-Wave Sweep",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/yi%20sun-shin/One-wave_Sweep.png",
                "type":"active",
                "cooldown":"7.5 / 7.0 / 6.5 / 6.0 / 5.5 / 5.0",
                "manacost":"60 / 65 / 70 / 75 / 80 / 85",
@@ -6127,7 +6279,7 @@
             },
             {
                "skill_name":"Blood Floods",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/yi%20sun-shin/Blood_Floods.png",
                "type":"active",
                "cooldown":"11",
                "manacost":"85 / 90 / 95 / 100 / 105 / 110",
@@ -6135,7 +6287,7 @@
             },
             {
                "skill_name":"Mountain Shocker",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/yi%20sun-shin/Mountain_Shocker.png",
                "type":"active",
                "cooldown":"60",
                "manacost":"170 / 200 / 230",
@@ -6179,7 +6331,7 @@
          "skills":[
             {
                "skill_name":"Decimation",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zhask/Decimation.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -6187,7 +6339,7 @@
             },
             {
                "skill_name":"Nightmaric Spawn",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zhask/Nightmaric_Spawn.png",
                "type":"active",
                "cooldown":"16.0/15.0/14.0/13.0",
                "manacost":"100/140/180/220",
@@ -6195,7 +6347,7 @@
             },
             {
                "skill_name":"Mind Eater",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zhask/Mind_Eater.png",
                "type":"active",
                "cooldown":"8",
                "manacost":"50/75/100/125",
@@ -6203,7 +6355,7 @@
             },
             {
                "skill_name":"Hive Clones",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zhask/Hive_Clones.png",
                "type":"active",
                "cooldown":"10",
                "manacost":"60/80/100/120",
@@ -6211,7 +6363,7 @@
             },
             {
                "skill_name":"Dominator's Descent",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zhask/Dominator's_Descent.png",
                "type":"active",
                "cooldown":"60.0/55.0/50.0",
                "manacost":"200/300/400",
@@ -6255,7 +6407,7 @@
          "skills":[
             {
                "skill_name":"Dragon Flurry",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zilong/Dragon_Flurry.png",
                "type":"passive",
                "cooldown":"null",
                "manacost":"null",
@@ -6263,7 +6415,7 @@
             },
             {
                "skill_name":"Spear Flip",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zilong/Spear_Flip.png",
                "type":"active",
                "cooldown":"9",
                "manacost":"80 / 85 / 90 / 95 / 100 / 105",
@@ -6271,7 +6423,7 @@
             },
             {
                "skill_name":"Spear Strike",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zilong/Spear_Strike.png",
                "type":"active",
                "cooldown":"10.0 / 9.0 / 8.0 / 7.0 / 6.0 / 5.0",
                "manacost":"80 / 85 / 90 / 95 / 100 / 105",
@@ -6279,7 +6431,7 @@
             },
             {
                "skill_name":"Supreme Warrior",
-               "skill_icon":"URL",
+               "skill_icon":"http://mlbb.realityblender.com/skills/zilong/Supreme_Warrior.png",
                "type":"active",
                "cooldown":"30.0 / 24.0 / 18.0",
                "manacost":"120 / 140 / 160",
