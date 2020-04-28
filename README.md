@@ -3,7 +3,7 @@ Thank you for checking-out my Mobile Legends Attribute Database.
 
 ## About the Data
 <br>
-We have 3 datasets for you to browse:
+We have 3 datasets for you to browse:<br>
 <a href="https://github.com/p3hndrx/MLBB-EquipmentPlanner/blob/master/final%20data/hero-meta-final.json">Hero Data</a><br>
 <a href="https://github.com/p3hndrx/MLBB-EquipmentPlanner/blob/master/final%20data/item-meta-final.json">Item Data</a><br>
 <a href="https://github.com/p3hndrx/MLBB-EquipmentPlanner/blob/master/final%20data/emblem-meta-final.json">Emblem Data</a>
