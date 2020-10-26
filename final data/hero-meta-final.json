@@ -21,15 +21,15 @@
                "skill_name":"Thousand Pounder",
                "skill_icon":"http://mlbb.realityblender.com/skills/akai/Thousand_Pounder.png",
                "type":"active",
-               "cooldown":"10",
-               "manacost":"70",
+               "cooldown":"5",
+               "manacost":"5",
                "description":"Akai jumps towards a designated location. Upon landing, Akai deals 300(+65%Total Physical Attack) points of Physical Damage to enemy units, while expercieincing a slow effect for 2 seconds. Akai deals bonus damage to marked enemies and causes a stun effect for 1 seconds."
             },
             {
                "skill_name":"Hurricane Dance",
                "skill_icon":"http://mlbb.realityblender.com/skills/akai/Hurricane_Dance.png",
                "type":"active",
-               "cooldown":"35.5",
+               "cooldown":"15.5",
                "manacost":"120",
                "description":"Akai removes all CC effects from him and spins like a tornado for 3.5 seconds. Each collision knocks back the target and deals 180(+165%Extra Physical Attack) points of Physical Damage (damage decays against the same target). During the time, Akai becomes immune to all CC effects and gains movement speed by 30%"
             },
@@ -37,16 +37,16 @@
                "skill_name":"Blender",
                "skill_icon":"http://mlbb.realityblender.com/skills/akai/Blender.png",
                "type":"active",
-               "cooldown":"6.5",
+               "cooldown":"3.5",
                "manacost":"65",
                "description":"Akai fires a frog shaped shockwave in the designated direction that explodes on contact with enemies or once it reaches maximum range, dealing 350(+135%Extra Physical Attack) points of Physical Damage and marking them for 4 seconds. His basic attacks on marked targets deal extra 8% of Akai's maximum health as physical damage."
             }
          ],
          "base_attributes":[
             {
-               "movement_speed":"260",
-               "physical_attack":"115",
-               "physical_defense":"24",
+               "movement_speed":"400",
+               "physical_attack":"200",
+               "physical_defense":"50",
                "physical_lifesteal":"null",
                "physical_penetration":"null",
                "magic_attack":"null",
@@ -316,7 +316,8 @@
          ],
          "base_attributes":[
             {
-               "movement_speed":"260",
+               "movement_speed":"2u
+60",
                "physical_attack":"123",
                "physical_defense":"null",
                "physical_lifesteal":"null",
@@ -562,7 +563,7 @@
                "description":"Each time her skill is cast, one unit of frost energy will be added to Aurora. When 4 units of frost energy is collected, the next damage of Frozen freezes the target. Lasts 1.5s. All skills can deal extra 30% Magic Damage to the targets with Frozen Effect."
             },
             {
-               "skill_name":"Frost Shock",
+               "skill_name":"Frost Shock", 
                "skill_icon":"http://mlbb.realityblender.com/skills/aurora/Frost_Shock.png",
                "type":"active",
                "cooldown":"4",
@@ -633,7 +634,7 @@
                "skill_name":"Qigong Fist",
                "skill_icon":"http://mlbb.realityblender.com/skills/badang/Qigong_Fist.png",
                "type":"active",
-               "cooldown":"7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
+               "cooldown":"4.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
                "manacost":"null",
                "description":"Badang coheres all his strength to his fists and performs overwhelming Fist Wind, dealing 220 / 255 / 290 / 325 / 360 / 395 (+70% Total Physical ATK) points of Physical Damage to the enemies on the path and slowing them 70%. The damage of Qigong Fist will trigger Basic Attack Effect and stack 1 time for the Chivalry Fist. All fist winds of Badang explode when hitting the obstacles left by him, dealing extra 155 / 180 / 205 / 230 / 255 / 280 (+50%Total Physical ATK) points of Physical Damage."
             },
@@ -641,7 +642,7 @@
                "skill_name":"Fist Break",
                "skill_icon":"http://mlbb.realityblender.com/skills/badang/Fist_Break.png",
                "type":"active",
-               "cooldown":"13.5 / 13.0 / 12.5 / 12.0 / 11.5 / 11.0",
+               "cooldown":"6.5 / 6.0 / 5.5 / 6.0 / 4.5 / 5.0",
                "manacost":"null",
                "description":"Badang dashes towards the designated direction, creating an obstacle along the path. Enemies along his way will be knocked back and take 230 / 260 / 290 / 320 / 350 / 380 (+50% Total Physical ATK) points of Physical Damage. Enemies that hit the obstacle suffer additional 130 / 150 / 170 / 190 / 210 / 230 (+30% Total Physical ATK) points of Physical Damage. Badang can recast this skill again to remove the obstacle."
             },
@@ -649,7 +650,7 @@
                "skill_name":"Fist Crack",
                "skill_icon":"http://mlbb.realityblender.com/skills/badang/Fist_Crack.png",
                "type":"active",
-               "cooldown":"34.0 / 31.0 / 28.0",
+               "cooldown":"17.0 / 15.0 / 14.0",
                "manacost":"null",
                "description":"Badang quickly throws his fists in the designated direction and generates a Fist Wind at the moment of release, dealing 120 / 150 / 180 (+50% Total Physical Attack) points of Physical Damage to enemies for several times. This fist wind enjoys Basic Attack Effect, and when the fist wind hits the obstacle, it will explode and deal 72 (+30% Total Physical Attack) points of Physical Damage. During the release of the skill, Badang generates a shield that absorbs 500 (+80% Total Physical Attack) points of Damage. This shield makes him immune to Control Effects."
             }
@@ -724,9 +725,9 @@
          ],
          "base_attributes":[
             {
-               "movement_speed":"260",
-               "physical_attack":"119",
-               "physical_defense":"25",
+               "movement_speed":"300",
+               "physical_attack":"200",
+               "physical_defense":"50",
                "physical_lifesteal":"null",
                "physical_penetration":"null",
                "magic_attack":"null",
@@ -735,9 +736,9 @@
                "magic_lifesteal":"null",
                "spell_vamp":"null",
                "magic_resistance":"10",
-               "hp":"2836",
+               "hp":"3000",
                "mana":"null",
-               "attack_speed":"0.85",
+               "attack_speed":"8",
                "hp_regen_rate":"47",
                "mana_regen_rate":"0",
                "critical_strike_chance":"null",
